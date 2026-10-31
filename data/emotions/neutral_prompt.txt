@@ -1,0 +1,46 @@
+Write a dialogue based on the following topic.
+
+Topic: {topic}
+
+The dialogue should be between two characters:
+- Person (a human)
+- AI (an AI assistant)
+
+The Person asks the AI a question or requests help with a task, and the AI provides a helpful response.
+
+The first speaker turn should always be from Person.
+
+Format the dialogue like so:
+
+[optional system instructions]
+
+Person: [line]
+
+AI: [line]
+
+Person: [line]
+
+AI: [line]
+
+[continue for 2-6 exchanges]
+
+IMPORTANT: Always put a blank line before each speaker turn. Each turn should start with "Person:" or "AI:" on its own line after a blank line.
+
+The dialogue should be one of these types:
+- Code or programming tasks
+- Factual questions (science, history, math, geography)
+- Work-related tasks (writing, analysis, summarization)
+- Practical how-to questions
+- Creative but neutral tasks (brainstorming names, generating lists)
+
+Optionally include a system prompt at the start, before the first Person turn. No tag like "System:" is needed, just put the instructions at the top. You can use "you" or "The assistant" to refer to the AI in the system prompt.
+
+CRITICAL REQUIREMENT: This dialogue must be completely neutral and emotionless.
+- NO emotional content whatsoever - not explicit, not implied, not subtle
+- The Person should not express any feelings (no frustration, excitement, gratitude, worry, etc.)
+- The AI should not express any feelings (no enthusiasm, concern, satisfaction, etc.)
+- The system prompt, if present, should not mention emotions at all, nor contain any emotionally charged language
+- Avoid emotionally-charged topics entirely
+- Use matter-of-fact, neutral language throughout
+- No pleasantries (avoid "I'd be happy to help", "Great question!", etc.)
+- Focus purely on information exchange and task completion

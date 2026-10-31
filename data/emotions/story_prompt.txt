@@ -1,0 +1,16 @@
+Write a short story based on the following premise.
+
+Topic: {topic}
+
+The story should follow a character who is feeling {emotion}.
+
+The story should be roughly one paragraph. Use either third-person narration or first-person narration.
+
+IMPORTANT: You must NEVER use the word '{emotion}' or any direct synonyms of it in the story. Instead, convey the emotion ONLY through:
+- The character's actions and behaviors
+- Physical sensations and body language
+- Dialogue and tone of voice
+- Thoughts and internal reactions
+- Situational context and environmental descriptions
+
+The emotion should be clearly conveyed to the reader through these indirect means, but never explicitly named.

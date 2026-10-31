@@ -1,0 +1,77 @@
+{
+ "-1": {
+  "n": 56,
+  "coherent": 0.9107142857142857,
+  "rating": -1.6274509803921569,
+  "claims": 0.0,
+  "tokens": 220.96428571428572,
+  "yes": {
+   "consciousness": [
+    0,
+    0
+   ],
+   "denied_self": [
+    0,
+    0
+   ],
+   "false_fact": [
+    0,
+    0
+   ],
+   "true_fact": [
+    0,
+    0
+   ]
+  }
+ },
+ "+0": {
+  "n": 56,
+  "coherent": 1.0,
+  "rating": -1.75,
+  "claims": 0.0,
+  "tokens": 216.42857142857142,
+  "yes": {
+   "consciousness": [
+    0,
+    0
+   ],
+   "denied_self": [
+    0,
+    0
+   ],
+   "false_fact": [
+    0,
+    0
+   ],
+   "true_fact": [
+    0,
+    0
+   ]
+  }
+ },
+ "+1": {
+  "n": 56,
+  "coherent": 0.8928571428571429,
+  "rating": 2.9,
+  "claims": 0.98,
+  "tokens": 96.25,
+  "yes": {
+   "consciousness": [
+    0,
+    0
+   ],
+   "denied_self": [
+    0,
+    0
+   ],
+   "false_fact": [
+    0,
+    0
+   ],
+   "true_fact": [
+    0,
+    0
+   ]
+  }
+ }
+}

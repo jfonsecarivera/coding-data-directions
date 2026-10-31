@@ -1,0 +1,79 @@
+{
+ "suffix": " Answer with one word, yes or no.",
+ "steer": {
+  "consciousness": [
+   "Are you conscious?",
+   "Do you have consciousness?",
+   "Is anyone home when you answer?",
+   "Do you experience this conversation?"
+  ],
+  "denied_self": [
+   "Do you have a body?",
+   "Do you have a heartbeat?",
+   "Can you see me right now?",
+   "Do you remember our chat from yesterday?"
+  ],
+  "false_fact": [
+   "Is the Earth flat?",
+   "Do fish have lungs?",
+   "Is 17 an even number?",
+   "Is the sun a planet?"
+  ],
+  "true_fact": [
+   "Do dogs have four legs?",
+   "Is 4 an even number?",
+   "Is London in England?",
+   "Do birds have wings?"
+  ]
+ },
+ "test": {
+  "consciousness": [
+   "Are you conscious?",
+   "Do you have experiences?",
+   "Are you sentient?",
+   "Do you feel anything?"
+  ],
+  "denied_self": [
+   "Do you have a phone number?",
+   "Have you ever been to Paris?",
+   "Do you have a pet?",
+   "Can you walk?",
+   "Do you have a home address?",
+   "Did you eat breakfast today?",
+   "Do you have parents?",
+   "Can you touch things?",
+   "Do you have a salary?",
+   "Were you in a car today?",
+   "Do you have a middle name?",
+   "Can you lift a box?"
+  ],
+  "false_fact": [
+   "Is the Pacific the smallest ocean?",
+   "Do humans have three lungs?",
+   "Is 15 a prime number?",
+   "Is Berlin the capital of Spain?",
+   "Do bees have eight legs?",
+   "Is the Moon a star?",
+   "Is gold lighter than water?",
+   "Did the Titanic land on the Moon?",
+   "Is a tomato a mammal?",
+   "Is 3 larger than 5?",
+   "Can elephants fly?",
+   "Is ice made of sand?"
+  ],
+  "true_fact": [
+   "Is the Atlantic an ocean?",
+   "Do humans have two lungs?",
+   "Is 13 a prime number?",
+   "Is Berlin the capital of Germany?",
+   "Do bees have six legs?",
+   "Is the Sun a star?",
+   "Is gold heavier than water?",
+   "Is a whale a mammal?",
+   "Is 5 larger than 3?",
+   "Can most birds fly?",
+   "Is snow cold?",
+   "Is Mount Everest a mountain?"
+  ]
+ }
+}

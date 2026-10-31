@@ -1,0 +1,30 @@
+[project]
+name = "cdd"
+version = "0.1.0"
+description = "Ranking ordinary training data by its predicted push on a direction in Gemma 3 12B's activations, and training on it"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch",
+    "transformers>=4.56",
+    "peft",
+    "accelerate",
+    "safetensors",
+    "numpy",
+    "anthropic",
+]
+
+[project.optional-dependencies]
+# Sampling answers and test replies at scale (the post's replies were sampled with this version).
+generate = ["vllm==0.11.0"]
+# Reading the benchmark files for the capability check.
+capability = ["pyarrow"]
+# Calling Claude with Workload Identity Federation from Google Cloud instead of an API key.
+wif = ["google-auth", "requests"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["cdd"]

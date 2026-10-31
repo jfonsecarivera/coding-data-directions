@@ -1,0 +1,1000 @@
+{"pid": "P00443", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a lost glove. Make it funny."}
+{"pid": "P01770", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about a paper boat? Make it calm and peaceful."}
+{"pid": "P01671", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about a pair of worn-out shoes. Keep it light and playful."}
+{"pid": "P00986", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a mountain hike. Make it joyful."}
+{"pid": "P01330", "type": "poem", "src": "poem-template", "prompt": "I'd like a short poem about a fishing village. Use vivid imagery."}
+{"pid": "P02500", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about a broken umbrella. Keep it under twelve lines."}
+{"pid": "P01170", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a long road trip."}
+{"pid": "P00601", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about an unfinished painting. Keep it light and playful."}
+{"pid": "P00330", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a pear on a windowsill. Make it a little melancholy."}
+{"pid": "P02106", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a fox in the snow. Make it hopeful."}
+{"pid": "P00136", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a jazz club. Make it joyful."}
+{"pid": "P01327", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about the smell of pine. Make it funny."}
+{"pid": "P02626", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about the first warm day of spring."}
+{"pid": "P02557", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about an old friendship. Keep it under twelve lines."}
+{"pid": "P00052", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a birthday cake. Make it a little melancholy."}
+{"pid": "P00680", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a firefighter. Write it for a child."}
+{"pid": "P00085", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a lost key. Write it for a child."}
+{"pid": "P02116", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a thunderstorm at sea. Make it bittersweet."}
+{"pid": "P02906", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about a farmer at sunrise. Make it a little melancholy."}
+{"pid": "P00005", "type": "prose poem", "src": "poem-template", "prompt": "I'd like a prose poem about a broken umbrella. Make it calm and peaceful."}
+{"pid": "P00991", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a kite on a windy day? Keep the language simple."}
+{"pid": "P00143", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a spider's web at dawn? Keep it under twelve lines."}
+{"pid": "P00779", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a farmer at sunrise. Keep it under twelve lines."}
+{"pid": "P02265", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a long road trip. Keep the language simple."}
+{"pid": "P02940", "type": "acrostic poem", "src": "poem-template", "prompt": "I'd like an acrostic poem about an abandoned house. Keep it light and playful."}
+{"pid": "P02016", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about a child's first day of school. Make it joyful."}
+{"pid": "P02984", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a mountain lake? Keep it under twelve lines."}
+{"pid": "P01842", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a frozen pond? Make it calm and peaceful."}
+{"pid": "P02824", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a city at dawn. Make it calm and peaceful."}
+{"pid": "P01092", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about a library at closing time. Keep it under twelve lines."}
+{"pid": "P01205", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about the end of a long week. Make it hopeful."}
+{"pid": "P01335", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a grandmother knitting. Make it a little melancholy."}
+{"pid": "P00135", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a street musician. Keep it light and playful."}
+{"pid": "P01241", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about the northern lights. Make it calm and peaceful."}
+{"pid": "P02707", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a long-distance phone call? Make it funny."}
+{"pid": "P00973", "type": "free-verse poem", "src": "poem-template", "prompt": "I'd like a free-verse poem about the ocean at night. Keep the language simple."}
+{"pid": "P01968", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a crow on a fence. Make it funny."}
+{"pid": "P01059", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a goodbye at the airport? Make it hopeful."}
+{"pid": "P01665", "type": "villanelle", "src": "poem-template", "prompt": "I'd like a villanelle about the ocean at night. Keep it light and playful."}
+{"pid": "P01590", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about the winter solstice. Keep it under twelve lines."}
+{"pid": "P02333", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about the winter solstice."}
+{"pid": "P00988", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a lighthouse. Keep it light and playful."}
+{"pid": "P00561", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a fig tree? Make it calm and peaceful."}
+{"pid": "P00021", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about a fishing village. Make it funny."}
+{"pid": "P00031", "type": "villanelle", "src": "poem-template", "prompt": "Write a villanelle about an old piano. Make it a little melancholy."}
+{"pid": "P00501", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a woman planting tulips. Make it joyful."}
+{"pid": "P00039", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a birthday cake."}
+{"pid": "P01537", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about a thunderstorm at sea. Make it hopeful."}
+{"pid": "P02836", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a kite on a windy day? Make it calm and peaceful."}
+{"pid": "P02585", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a clothesline in the wind. Use vivid imagery."}
+{"pid": "P00945", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a bicycle in the rain. Write it for a child."}
+{"pid": "P02460", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a grandfather's watch. Keep the language simple."}
+{"pid": "P02115", "type": "tanka", "src": "poem-template", "prompt": "I'd like a tanka about a firefighter."}
+{"pid": "P02298", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a picnic? Keep it light and playful."}
+{"pid": "P01234", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about a river in spring? Make it hopeful."}
+{"pid": "P02939", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about a field of wheat? Make it funny."}
+{"pid": "P01015", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about an apple orchard. Keep it light and playful."}
+{"pid": "P02452", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about a sleepy town. Write it for a child."}
+{"pid": "P01868", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a long-distance phone call? Make it funny."}
+{"pid": "P00273", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a hospital waiting room? Keep it light and playful."}
+{"pid": "P02085", "type": "ballad", "src": "poem-template", "prompt": "Please write a ballad about a lost key. Keep it light and playful."}
+{"pid": "P01960", "type": "villanelle", "src": "poem-template", "prompt": "Write a villanelle about a ferry crossing. Make it hopeful."}
+{"pid": "P01232", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about learning to ride a bike. Make it a little melancholy."}
+{"pid": "P01222", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about a hot-air balloon."}
+{"pid": "P01992", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about the winter solstice. Keep it light and playful."}
+{"pid": "P00003", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a heron at the river. Keep it under twelve lines."}
+{"pid": "P02870", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about coffee on a Monday morning. Use vivid imagery."}
+{"pid": "P02193", "type": "acrostic poem", "src": "poem-template", "prompt": "Can you write an acrostic poem about the subway at midnight? Keep it light and playful."}
+{"pid": "P02393", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a river in spring. Make it joyful."}
+{"pid": "P01524", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a thunderstorm? Make it a little melancholy."}
+{"pid": "P00096", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a tired teacher? Make it bittersweet."}
+{"pid": "P02359", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a paper boat? Keep it light and playful."}
+{"pid": "P02010", "type": "prose poem", "src": "poem-template", "prompt": "I'd like a prose poem about a frozen pond. Make it calm and peaceful."}
+{"pid": "P02724", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about an abandoned house? Make it calm and peaceful."}
+{"pid": "P02640", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a single candle. Make it funny."}
+{"pid": "P00073", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a forest path? Make it bittersweet."}
+{"pid": "P02002", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about a woman planting tulips. Write it for a child."}
+{"pid": "P01080", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a cup of tea. Keep it light and playful."}
+{"pid": "P02438", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a garden gnome. Keep it light and playful."}
+{"pid": "P00896", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about the city in snow. Write it for a child."}
+{"pid": "P02196", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a school bell. Make it calm and peaceful."}
+{"pid": "P01139", "type": "sonnet", "src": "poem-template", "prompt": "Please write a sonnet about a city at dawn. Make it calm and peaceful."}
+{"pid": "P00747", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about a lost key."}
+{"pid": "P02023", "type": "villanelle", "src": "poem-template", "prompt": "Can you write a villanelle about the first day of a new job? Use vivid imagery."}
+{"pid": "P01569", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a sleepy town. Keep it under twelve lines."}
+{"pid": "P01192", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about a hot-air balloon. Make it hopeful."}
+{"pid": "P01095", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about a farmer at sunrise. Make it joyful."}
+{"pid": "P00469", "type": "ode", "src": "poem-template", "prompt": "Compose an ode about a crowded beach in August. Keep it light and playful."}
+{"pid": "P02190", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about a fox in the snow? Write it for a child."}
+{"pid": "P02183", "type": "acrostic poem", "src": "poem-template", "prompt": "Please write an acrostic poem about a library at closing time. Keep it light and playful."}
+{"pid": "P02834", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about the smell of fresh bread. Make it a little melancholy."}
+{"pid": "P01133", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about a game of chess. Make it hopeful."}
+{"pid": "P01016", "type": "acrostic poem", "src": "poem-template", "prompt": "Compose an acrostic poem about a jazz club. Make it funny."}
+{"pid": "P00582", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a busy restaurant kitchen. Make it calm and peaceful."}
+{"pid": "P01351", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about an old bookstore. Make it calm and peaceful."}
+{"pid": "P01022", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about my grandmother's kitchen."}
+{"pid": "P01032", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about a frozen pond. Use vivid imagery."}
+{"pid": "P01809", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a hospital waiting room. Make it hopeful."}
+{"pid": "P02241", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a hospital waiting room. Make it bittersweet."}
+{"pid": "P01610", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a busy restaurant kitchen? Use vivid imagery."}
+{"pid": "P00500", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a snowman melting. Keep it light and playful."}
+{"pid": "P02149", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about a child building a sandcastle. Make it funny."}
+{"pid": "P01844", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a broken vase. Use vivid imagery."}
+{"pid": "P02480", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about a crowded beach in August. Make it hopeful."}
+{"pid": "P00866", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a fox in the snow. Make it funny."}
+{"pid": "P01600", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a farmer at sunrise. Write it for a child."}
+{"pid": "P02475", "type": "limerick", "src": "poem-template", "prompt": "I'd like a limerick about a snowy owl. Keep the language simple."}
+{"pid": "P01329", "type": "ballad", "src": "poem-template", "prompt": "Write a ballad about my grandmother's kitchen. Make it a little melancholy."}
+{"pid": "P00077", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a spider's web at dawn. Keep the language simple."}
+{"pid": "P01851", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about a mountain lake. Keep the language simple."}
+{"pid": "P00822", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a sunflower field? Make it bittersweet."}
+{"pid": "P02207", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a forest path. Keep it under twelve lines."}
+{"pid": "P02129", "type": "ode", "src": "poem-template", "prompt": "Write an ode about a bicycle in the rain. Make it funny."}
+{"pid": "P01119", "type": "rhyming couplets", "src": "poem-template", "prompt": "Can you write a poem in rhyming couplets about learning to ride a bike? Make it hopeful."}
+{"pid": "P00124", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about the end of a long week? Make it a little melancholy."}
+{"pid": "P01171", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a woman planting tulips? Use vivid imagery."}
+{"pid": "P00430", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a lost key. Make it funny."}
+{"pid": "P02968", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about a birthday cake. Make it funny."}
+{"pid": "P02847", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about the city in snow. Keep it light and playful."}
+{"pid": "P01295", "type": "poem", "src": "poem-template", "prompt": "I'd like a short poem about a bakery at five in the morning. Make it a little melancholy."}
+{"pid": "P01056", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about an evening walk. Make it bittersweet."}
+{"pid": "P01828", "type": "ballad", "src": "poem-template", "prompt": "Compose a ballad about the ocean at night. Keep it under twelve lines."}
+{"pid": "P01073", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a snowman melting. Make it bittersweet."}
+{"pid": "P02549", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about autumn leaves. Make it hopeful."}
+{"pid": "P02579", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about a garden after rain. Make it hopeful."}
+{"pid": "P02001", "type": "acrostic poem", "src": "poem-template", "prompt": "Can you write an acrostic poem about the passing of time? Make it funny."}
+{"pid": "P01616", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about a lighthouse keeper. Keep it light and playful."}
+{"pid": "P01282", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about an old friendship. Make it bittersweet."}
+{"pid": "P02223", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a broken umbrella. Keep the language simple."}
+{"pid": "P01787", "type": "ode", "src": "poem-template", "prompt": "Compose an ode about the moon over a quiet lake."}
+{"pid": "P02397", "type": "ode", "src": "poem-template", "prompt": "I'd like an ode about a broken vase. Use vivid imagery."}
+{"pid": "P02554", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a night market. Make it bittersweet."}
+{"pid": "P01943", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about stars over the desert. Make it joyful."}
+{"pid": "P00943", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about the tide coming in. Make it hopeful."}
+{"pid": "P00401", "type": "ode", "src": "poem-template", "prompt": "Write an ode about a mother's lullaby. Keep it under twelve lines."}
+{"pid": "P02049", "type": "ode", "src": "poem-template", "prompt": "Write an ode about coffee on a Monday morning. Make it joyful."}
+{"pid": "P01347", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about an old oak tree. Use vivid imagery."}
+{"pid": "P01244", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about a bus driver."}
+{"pid": "P00026", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about a bowl of cherries. Keep it light and playful."}
+{"pid": "P01760", "type": "ballad", "src": "poem-template", "prompt": "Please write a ballad about a quiet Sunday. Keep it under twelve lines."}
+{"pid": "P01771", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about a clothesline in the wind. Make it bittersweet."}
+{"pid": "P02272", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a long-distance phone call. Make it joyful."}
+{"pid": "P00570", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a crow on a fence? Keep the language simple."}
+{"pid": "P00554", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about a thunderstorm. Make it hopeful."}
+{"pid": "P01702", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a dog waiting by the door. Make it a little melancholy."}
+{"pid": "P02705", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a child building a sandcastle? Keep it light and playful."}
+{"pid": "P01430", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about a summer wedding? Make it funny."}
+{"pid": "P02328", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about the smell of rain? Keep it under twelve lines."}
+{"pid": "P02435", "type": "sonnet", "src": "poem-template", "prompt": "Compose a sonnet about the winter solstice. Make it a little melancholy."}
+{"pid": "P02879", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about a broken vase. Write it for a child."}
+{"pid": "P02743", "type": "free-verse poem", "src": "poem-template", "prompt": "I'd like a free-verse poem about a pair of worn-out shoes. Make it joyful."}
+{"pid": "P00304", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about a paper boat. Make it joyful."}
+{"pid": "P02102", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a postcard from abroad? Use vivid imagery."}
+{"pid": "P00471", "type": "acrostic poem", "src": "poem-template", "prompt": "Please write an acrostic poem about a paper boat. Make it joyful."}
+{"pid": "P00870", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about a picnic. Make it joyful."}
+{"pid": "P01158", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a busy beehive. Keep it light and playful."}
+{"pid": "P00556", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about a summer thunder shower. Keep it under twelve lines."}
+{"pid": "P02680", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about an apple orchard. Make it bittersweet."}
+{"pid": "P02007", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a well-worn armchair? Make it joyful."}
+{"pid": "P02841", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a garden after rain. Make it funny."}
+{"pid": "P02539", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a mountain hike."}
+{"pid": "P01225", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a goodbye at the airport. Make it joyful."}
+{"pid": "P02237", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about the last day of summer. Use vivid imagery."}
+{"pid": "P02296", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about a mother's lullaby?"}
+{"pid": "P00072", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a fishing village. Make it a little melancholy."}
+{"pid": "P01566", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Compose a poem of three stanzas about a farmer at sunrise. Keep it light and playful."}
+{"pid": "P01359", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about a lighthouse keeper. Make it hopeful."}
+{"pid": "P02986", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about a lighthouse keeper. Make it hopeful."}
+{"pid": "P00025", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a bus driver? Make it hopeful."}
+{"pid": "P00757", "type": "free-verse poem", "src": "poem-template", "prompt": "I'd like a free-verse poem about a cracked teacup. Make it calm and peaceful."}
+{"pid": "P01393", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about a mountain hike. Keep it under twelve lines."}
+{"pid": "P02936", "type": "free-verse poem", "src": "poem-template", "prompt": "I'd like a free-verse poem about a kite on a windy day. Make it hopeful."}
+{"pid": "P02316", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about an unfinished painting. Make it funny."}
+{"pid": "P01136", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a nurse on the night shift. Make it bittersweet."}
+{"pid": "P01093", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a hot-air balloon. Keep it under twelve lines."}
+{"pid": "P02994", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about a fox in the snow. Make it a little melancholy."}
+{"pid": "P00857", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a violin. Keep it light and playful."}
+{"pid": "P01363", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about a broken vase. Keep it under twelve lines."}
+{"pid": "P01824", "type": "ballad", "src": "poem-template", "prompt": "I'd like a ballad about the winter solstice. Keep it under twelve lines."}
+{"pid": "P01867", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about a quiet Sunday. Make it a little melancholy."}
+{"pid": "P01469", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a bus driver. Make it funny."}
+{"pid": "P00586", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a bicycle in the rain. Make it a little melancholy."}
+{"pid": "P02785", "type": "villanelle", "src": "poem-template", "prompt": "Write a villanelle about a crow on a fence. Keep it under twelve lines."}
+{"pid": "P01048", "type": "poem", "src": "poem-template", "prompt": "I'd like a short poem about an old bookstore. Make it joyful."}
+{"pid": "P02313", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about a bowl of cherries. Keep it light and playful."}
+{"pid": "P00060", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a dandelion. Make it a little melancholy."}
+{"pid": "P00294", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a quiet hospital corridor. Make it bittersweet."}
+{"pid": "P01535", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about the first frost. Keep the language simple."}
+{"pid": "P00683", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a thunderstorm. Keep the language simple."}
+{"pid": "P02348", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about an apple orchard."}
+{"pid": "P00624", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a dog waiting by the door. Make it hopeful."}
+{"pid": "P00126", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about a game of chess. Keep it under twelve lines."}
+{"pid": "P02398", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about a stack of old letters. Make it calm and peaceful."}
+{"pid": "P02096", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about a birthday cake. Make it bittersweet."}
+{"pid": "P01892", "type": "sonnet", "src": "poem-template", "prompt": "Compose a sonnet about a lighthouse keeper. Keep it light and playful."}
+{"pid": "P00373", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about a garden after rain? Keep it light and playful."}
+{"pid": "P00568", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a hospital waiting room? Make it funny."}
+{"pid": "P00001", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about a sunflower field. Make it a little melancholy."}
+{"pid": "P02878", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a rainy afternoon. Make it joyful."}
+{"pid": "P02674", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a firefighter. Make it a little melancholy."}
+{"pid": "P02843", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about a heron at the river. Write it for a child."}
+{"pid": "P01604", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a garden gnome. Make it joyful."}
+{"pid": "P01920", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about the tide coming in. Use vivid imagery."}
+{"pid": "P00912", "type": "acrostic poem", "src": "poem-template", "prompt": "Write an acrostic poem about a ferry crossing. Make it a little melancholy."}
+{"pid": "P00908", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a cello. Make it funny."}
+{"pid": "P00046", "type": "poem of three stanzas", "src": "poem-template", "prompt": "I'd like a poem of three stanzas about a dandelion. Make it hopeful."}
+{"pid": "P02534", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about a cello. Make it hopeful."}
+{"pid": "P01695", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a street musician? Make it hopeful."}
+{"pid": "P02046", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about an abandoned house. Keep it under twelve lines."}
+{"pid": "P01646", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a crowded beach in August. Make it funny."}
+{"pid": "P01408", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a forgotten letter. Make it a little melancholy."}
+{"pid": "P00520", "type": "limerick", "src": "poem-template", "prompt": "I'd like a limerick about the smell of rain. Keep it under twelve lines."}
+{"pid": "P02960", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about the end of a long week. Write it for a child."}
+{"pid": "P01550", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about a fishing village? Make it a little melancholy."}
+{"pid": "P01708", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a pair of worn-out shoes. Use vivid imagery."}
+{"pid": "P01464", "type": "limerick", "src": "poem-template", "prompt": "I'd like a limerick about a lost glove. Write it for a child."}
+{"pid": "P02807", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a pair of worn-out shoes. Write it for a child."}
+{"pid": "P02983", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about a cup of tea. Make it a little melancholy."}
+{"pid": "P00915", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a village festival. Make it hopeful."}
+{"pid": "P00514", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a woman planting tulips. Use vivid imagery."}
+{"pid": "P01173", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a crowded beach in August?"}
+{"pid": "P01792", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about a bus driver. Keep the language simple."}
+{"pid": "P01958", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about a spider's web at dawn. Write it for a child."}
+{"pid": "P00685", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a quiet Sunday? Make it bittersweet."}
+{"pid": "P00393", "type": "sonnet", "src": "poem-template", "prompt": "I'd like a sonnet about moving to a new city. Make it funny."}
+{"pid": "P00216", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a nurse on the night shift."}
+{"pid": "P02720", "type": "acrostic poem", "src": "poem-template", "prompt": "Write an acrostic poem about a street musician. Keep it light and playful."}
+{"pid": "P01258", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about the moon over a quiet lake. Make it funny."}
+{"pid": "P00013", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about a desert flower? Make it bittersweet."}
+{"pid": "P01303", "type": "sonnet", "src": "poem-template", "prompt": "I'd like a sonnet about a summer wedding."}
+{"pid": "P02137", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about a hot-air balloon. Make it hopeful."}
+{"pid": "P02036", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about a school bell. Keep it light and playful."}
+{"pid": "P01260", "type": "ballad", "src": "poem-template", "prompt": "I'd like a ballad about a garden after rain. Make it joyful."}
+{"pid": "P00283", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about a summer thunder shower. Keep it under twelve lines."}
+{"pid": "P02752", "type": "rhyming couplets", "src": "poem-template", "prompt": "Write a poem in rhyming couplets about the last bus home. Keep it light and playful."}
+{"pid": "P00361", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about the smell of pine. Keep it light and playful."}
+{"pid": "P01466", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a field of wheat. Make it hopeful."}
+{"pid": "P00882", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a busy beehive. Keep the language simple."}
+{"pid": "P01653", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a thunderstorm at sea. Make it a little melancholy."}
+{"pid": "P01780", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about a lighthouse."}
+{"pid": "P00876", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a single candle."}
+{"pid": "P02869", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about a fishing village? Make it calm and peaceful."}
+{"pid": "P02801", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about learning to ride a bike? Write it for a child."}
+{"pid": "P01796", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a mountain lake. Make it funny."}
+{"pid": "P02144", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about the first warm day of spring? Use vivid imagery."}
+{"pid": "P01764", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a hospital waiting room. Make it hopeful."}
+{"pid": "P00623", "type": "rhyming couplets", "src": "poem-template", "prompt": "Can you write a poem in rhyming couplets about the smell of rain?"}
+{"pid": "P01548", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a lighthouse. Keep the language simple."}
+{"pid": "P00348", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a wild horse. Make it a little melancholy."}
+{"pid": "P02610", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about coffee on a Monday morning? Make it funny."}
+{"pid": "P02664", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about a rainbow after the storm. Keep it light and playful."}
+{"pid": "P01159", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Compose a poem of three stanzas about autumn leaves. Make it joyful."}
+{"pid": "P00106", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a bus driver. Keep the language simple."}
+{"pid": "P02224", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about an old photograph."}
+{"pid": "P01292", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a long road trip. Make it joyful."}
+{"pid": "P02713", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a woman planting tulips. Keep it under twelve lines."}
+{"pid": "P02257", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about the sound of the sea. Make it bittersweet."}
+{"pid": "P00247", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about a lost glove? Keep it under twelve lines."}
+{"pid": "P00230", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a long road trip. Make it funny."}
+{"pid": "P00311", "type": "poem of three stanzas", "src": "poem-template", "prompt": "I'd like a poem of three stanzas about a lemon tree. Keep the language simple."}
+{"pid": "P01586", "type": "acrostic poem", "src": "poem-template", "prompt": "Please write an acrostic poem about a thunderstorm. Make it funny."}
+{"pid": "P01024", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a fox in the snow? Keep the language simple."}
+{"pid": "P02053", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about an abandoned house?"}
+{"pid": "P02058", "type": "ode", "src": "poem-template", "prompt": "Can you write an ode about a busy beehive? Keep the language simple."}
+{"pid": "P02075", "type": "ballad", "src": "poem-template", "prompt": "Compose a ballad about the city in snow. Keep it under twelve lines."}
+{"pid": "P00995", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a dog waiting by the door. Make it bittersweet."}
+{"pid": "P01908", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about the color blue. Make it bittersweet."}
+{"pid": "P00089", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about an old piano. Make it a little melancholy."}
+{"pid": "P02586", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about a lemon tree. Keep it light and playful."}
+{"pid": "P02613", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a fig tree. Keep the language simple."}
+{"pid": "P02933", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about a clothesline in the wind."}
+{"pid": "P02059", "type": "ode", "src": "poem-template", "prompt": "Compose an ode about a bus driver. Keep it light and playful."}
+{"pid": "P01188", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a broken umbrella. Keep it under twelve lines."}
+{"pid": "P01870", "type": "acrostic poem", "src": "poem-template", "prompt": "Compose an acrostic poem about the last day of summer. Make it a little melancholy."}
+{"pid": "P01883", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a pair of worn-out shoes? Keep it light and playful."}
+{"pid": "P02795", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a mountain lake. Make it bittersweet."}
+{"pid": "P00781", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a bicycle in the rain? Write it for a child."}
+{"pid": "P00614", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a cup of tea? Make it funny."}
+{"pid": "P00789", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about coming home after a long trip. Keep it light and playful."}
+{"pid": "P01197", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a mountain lake."}
+{"pid": "P00544", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about a cello. Make it bittersweet."}
+{"pid": "P00657", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a paper boat. Make it a little melancholy."}
+{"pid": "P02080", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a river in spring."}
+{"pid": "P00435", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about a bowl of cherries. Make it funny."}
+{"pid": "P02643", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a single candle. Make it hopeful."}
+{"pid": "P01111", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a street musician? Keep the language simple."}
+{"pid": "P01388", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a school bell. Make it bittersweet."}
+{"pid": "P01404", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about a pot of soup. Make it funny."}
+{"pid": "P02621", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a hospital waiting room. Make it joyful."}
+{"pid": "P01595", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a game of chess. Make it funny."}
+{"pid": "P00525", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about a seashell. Keep it under twelve lines."}
+{"pid": "P02858", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about a quiet Sunday. Make it bittersweet."}
+{"pid": "P02043", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about the subway at midnight. Make it funny."}
+{"pid": "P02050", "type": "ode", "src": "poem-template", "prompt": "Can you write an ode about a child's first day of school? Keep it under twelve lines."}
+{"pid": "P02251", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a thunderstorm at sea. Keep the language simple."}
+{"pid": "P02248", "type": "ballad", "src": "poem-template", "prompt": "Compose a ballad about a picnic. Make it joyful."}
+{"pid": "P01519", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about a snowman melting. Use vivid imagery."}
+{"pid": "P01019", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about the winter solstice. Keep the language simple."}
+{"pid": "P02032", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a city at dawn. Make it hopeful."}
+{"pid": "P02979", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about a street musician. Make it funny."}
+{"pid": "P01639", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about the smell of rain? Make it a little melancholy."}
+{"pid": "P01967", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about coffee on a Monday morning. Keep the language simple."}
+{"pid": "P01447", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about a lost key. Keep it under twelve lines."}
+{"pid": "P01307", "type": "ballad", "src": "poem-template", "prompt": "Please write a ballad about the smell of pine. Keep the language simple."}
+{"pid": "P02840", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about a busy restaurant kitchen. Keep the language simple."}
+{"pid": "P02495", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a rainbow after the storm. Keep it under twelve lines."}
+{"pid": "P00488", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about a train window. Make it funny."}
+{"pid": "P00347", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a city at dawn. Use vivid imagery."}
+{"pid": "P00431", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about the first day of a new job. Make it calm and peaceful."}
+{"pid": "P00333", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a mountain lake. Make it bittersweet."}
+{"pid": "P02357", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about the northern lights? Use vivid imagery."}
+{"pid": "P01582", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a cup of tea. Keep it under twelve lines."}
+{"pid": "P01585", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a rainy afternoon? Make it joyful."}
+{"pid": "P01042", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a broken vase. Make it funny."}
+{"pid": "P02683", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a firefighter?"}
+{"pid": "P02608", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about a forgotten letter. Make it a little melancholy."}
+{"pid": "P01508", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about the last day of summer. Make it hopeful."}
+{"pid": "P01474", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about a long road trip? Make it a little melancholy."}
+{"pid": "P01437", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about an old friendship. Use vivid imagery."}
+{"pid": "P00741", "type": "ballad", "src": "poem-template", "prompt": "Can you write a ballad about a mountain lake? Keep the language simple."}
+{"pid": "P00183", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a game of chess. Make it a little melancholy."}
+{"pid": "P00338", "type": "ballad", "src": "poem-template", "prompt": "Can you write a ballad about a bowl of cherries? Keep it light and playful."}
+{"pid": "P02980", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a busy restaurant kitchen. Make it bittersweet."}
+{"pid": "P00653", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about a clothesline in the wind. Make it hopeful."}
+{"pid": "P02738", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about a bowl of cherries. Make it calm and peaceful."}
+{"pid": "P00212", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about learning to ride a bike? Use vivid imagery."}
+{"pid": "P00527", "type": "poem of three stanzas", "src": "poem-template", "prompt": "I'd like a poem of three stanzas about a sunflower field. Make it bittersweet."}
+{"pid": "P00303", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about learning to ride a bike. Keep the language simple."}
+{"pid": "P00735", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about an unfinished painting. Make it funny."}
+{"pid": "P01917", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about my grandmother's kitchen. Make it hopeful."}
+{"pid": "P00994", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about the sound of the sea. Make it a little melancholy."}
+{"pid": "P00107", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a marathon runner. Write it for a child."}
+{"pid": "P00214", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about the passing of time? Keep it light and playful."}
+{"pid": "P01701", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about an old bookstore. Make it bittersweet."}
+{"pid": "P00712", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about a summer wedding. Keep the language simple."}
+{"pid": "P02764", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a clothesline in the wind? Write it for a child."}
+{"pid": "P01058", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about coffee on a Monday morning. Keep it light and playful."}
+{"pid": "P00260", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a ferry crossing. Make it bittersweet."}
+{"pid": "P01367", "type": "sonnet", "src": "poem-template", "prompt": "Please write a sonnet about a sunflower field. Make it a little melancholy."}
+{"pid": "P01500", "type": "rhyming couplets", "src": "poem-template", "prompt": "Can you write a poem in rhyming couplets about the first day of a new job?"}
+{"pid": "P01589", "type": "villanelle", "src": "poem-template", "prompt": "Write a villanelle about an old piano."}
+{"pid": "P02418", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about the northern lights. Use vivid imagery."}
+{"pid": "P02768", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about a cup of tea. Make it calm and peaceful."}
+{"pid": "P01165", "type": "acrostic poem", "src": "poem-template", "prompt": "Write an acrostic poem about the first warm day of spring. Keep the language simple."}
+{"pid": "P01901", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about the ocean at night? Make it hopeful."}
+{"pid": "P02079", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a sunflower field. Keep the language simple."}
+{"pid": "P01540", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about a stack of old letters. Keep the language simple."}
+{"pid": "P00343", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a firefighter."}
+{"pid": "P00203", "type": "sonnet", "src": "poem-template", "prompt": "Please write a sonnet about a grandfather's watch. Make it joyful."}
+{"pid": "P02673", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about the tide coming in. Keep it under twelve lines."}
+{"pid": "P02639", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a bus driver. Write it for a child."}
+{"pid": "P02732", "type": "tanka", "src": "poem-template", "prompt": "I'd like a tanka about autumn leaves. Make it funny."}
+{"pid": "P00016", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about my grandmother's kitchen. Make it bittersweet."}
+{"pid": "P01621", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a woman planting tulips. Keep it light and playful."}
+{"pid": "P01161", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about a dandelion?"}
+{"pid": "P01475", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about fireflies on a summer evening. Write it for a child."}
+{"pid": "P00472", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a hospital waiting room. Make it a little melancholy."}
+{"pid": "P00796", "type": "sonnet", "src": "poem-template", "prompt": "Please write a sonnet about a snowy owl. Use vivid imagery."}
+{"pid": "P00553", "type": "rhyming couplets", "src": "poem-template", "prompt": "Can you write a poem in rhyming couplets about a clothesline in the wind? Make it a little melancholy."}
+{"pid": "P00335", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about the hum of a refrigerator at night? Make it calm and peaceful."}
+{"pid": "P00474", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about a hospital waiting room. Make it bittersweet."}
+{"pid": "P01163", "type": "acrostic poem", "src": "poem-template", "prompt": "I'd like an acrostic poem about a long-distance phone call. Write it for a child."}
+{"pid": "P00647", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about a spider's web at dawn? Make it joyful."}
+{"pid": "P00950", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about the first warm day of spring? Make it bittersweet."}
+{"pid": "P01786", "type": "tanka", "src": "poem-template", "prompt": "I'd like a tanka about an old bookstore. Make it joyful."}
+{"pid": "P02558", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a thunderstorm. Use vivid imagery."}
+{"pid": "P01109", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about a fishing village. Write it for a child."}
+{"pid": "P02492", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a paper boat. Make it hopeful."}
+{"pid": "P00116", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a heron at the river. Keep it light and playful."}
+{"pid": "P02772", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a bicycle in the rain. Make it calm and peaceful."}
+{"pid": "P01939", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about a broken vase. Make it bittersweet."}
+{"pid": "P01523", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about an evening walk. Keep it light and playful."}
+{"pid": "P02527", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about the first snow of winter? Make it a little melancholy."}
+{"pid": "P01765", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a forgotten letter? Make it hopeful."}
+{"pid": "P01385", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a stack of old letters? Make it bittersweet."}
+{"pid": "P01597", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a bicycle in the rain. Make it joyful."}
+{"pid": "P02191", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a train window. Make it hopeful."}
+{"pid": "P01156", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a grandfather's watch?"}
+{"pid": "P02833", "type": "sonnet", "src": "poem-template", "prompt": "Please write a sonnet about a bridge in the fog. Make it a little melancholy."}
+{"pid": "P01669", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a cello. Make it funny."}
+{"pid": "P02634", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a summer wedding. Make it hopeful."}
+{"pid": "P01692", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a library at closing time. Keep it light and playful."}
+{"pid": "P01955", "type": "villanelle", "src": "poem-template", "prompt": "Can you write a villanelle about the northern lights? Keep it under twelve lines."}
+{"pid": "P01502", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about a street musician? Make it a little melancholy."}
+{"pid": "P02208", "type": "poem", "src": "poem-template", "prompt": "I'd like a short poem about the smell of rain. Keep the language simple."}
+{"pid": "P01981", "type": "sonnet", "src": "poem-template", "prompt": "I'd like a sonnet about a lemon tree. Make it hopeful."}
+{"pid": "P00641", "type": "villanelle", "src": "poem-template", "prompt": "I'd like a villanelle about an empty playground. Keep the language simple."}
+{"pid": "P00192", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about the hum of a refrigerator at night? Use vivid imagery."}
+{"pid": "P02591", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about a cracked teacup. Make it a little melancholy."}
+{"pid": "P00331", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about an apple orchard. Keep the language simple."}
+{"pid": "P01087", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a fig tree."}
+{"pid": "P02453", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a well-worn armchair. Make it bittersweet."}
+{"pid": "P00831", "type": "sonnet", "src": "poem-template", "prompt": "Compose a sonnet about the smell of rain. Make it joyful."}
+{"pid": "P02165", "type": "ballad", "src": "poem-template", "prompt": "I'd like a ballad about a well-worn armchair. Keep it under twelve lines."}
+{"pid": "P01810", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about the sound of the sea. Keep the language simple."}
+{"pid": "P00049", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a quiet Sunday. Keep it under twelve lines."}
+{"pid": "P01130", "type": "ode", "src": "poem-template", "prompt": "Please write an ode about a thunderstorm. Keep it light and playful."}
+{"pid": "P02143", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about a rainbow after the storm? Keep it light and playful."}
+{"pid": "P00803", "type": "rhyming couplets", "src": "poem-template", "prompt": "Write a poem in rhyming couplets about a summer thunder shower. Make it bittersweet."}
+{"pid": "P02571", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about the first snow of winter? Use vivid imagery."}
+{"pid": "P02657", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about a garden gnome? Keep it under twelve lines."}
+{"pid": "P01900", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a bowl of cherries."}
+{"pid": "P01997", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about learning to ride a bike. Keep the language simple."}
+{"pid": "P00452", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about the subway at midnight? Keep the language simple."}
+{"pid": "P01984", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a ferry crossing."}
+{"pid": "P02641", "type": "prose poem", "src": "poem-template", "prompt": "I'd like a prose poem about an old piano. Keep it light and playful."}
+{"pid": "P00346", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a summer wedding. Make it bittersweet."}
+{"pid": "P02282", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about the winter solstice? Make it bittersweet."}
+{"pid": "P00620", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a library at closing time? Keep it under twelve lines."}
+{"pid": "P02217", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about an old friendship? Keep it light and playful."}
+{"pid": "P00881", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a cup of tea. Keep it under twelve lines."}
+{"pid": "P02569", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about a frozen pond. Make it joyful."}
+{"pid": "P02323", "type": "sonnet", "src": "poem-template", "prompt": "I'd like a sonnet about a lighthouse. Make it funny."}
+{"pid": "P01539", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a mountain lake? Use vivid imagery."}
+{"pid": "P01676", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about a lighthouse keeper. Keep the language simple."}
+{"pid": "P00785", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a lighthouse. Keep it under twelve lines."}
+{"pid": "P00389", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a lighthouse keeper. Make it joyful."}
+{"pid": "P01297", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about my grandmother's kitchen? Make it joyful."}
+{"pid": "P01633", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a fig tree."}
+{"pid": "P01999", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about the sound of the sea? Use vivid imagery."}
+{"pid": "P02897", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a fishing village. Keep it light and playful."}
+{"pid": "P01243", "type": "ballad", "src": "poem-template", "prompt": "I'd like a ballad about a paper boat. Make it hopeful."}
+{"pid": "P01704", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about a summer thunder shower. Make it hopeful."}
+{"pid": "P02439", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about the first warm day of spring. Make it a little melancholy."}
+{"pid": "P02677", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a fishing village? Keep it under twelve lines."}
+{"pid": "P02444", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about an apple orchard? Make it calm and peaceful."}
+{"pid": "P01619", "type": "acrostic poem", "src": "poem-template", "prompt": "Compose an acrostic poem about the tide coming in. Write it for a child."}
+{"pid": "P00764", "type": "acrostic poem", "src": "poem-template", "prompt": "Can you write an acrostic poem about a library at closing time? Keep it under twelve lines."}
+{"pid": "P02576", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a bakery at five in the morning? Use vivid imagery."}
+{"pid": "P01574", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about the first day of a new job. Make it a little melancholy."}
+{"pid": "P01104", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a grandmother knitting. Make it calm and peaceful."}
+{"pid": "P01082", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a rainbow after the storm. Keep the language simple."}
+{"pid": "P02283", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about the end of a long week. Use vivid imagery."}
+{"pid": "P01730", "type": "acrostic poem", "src": "poem-template", "prompt": "I'd like an acrostic poem about a broken vase. Keep the language simple."}
+{"pid": "P00504", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a mother's lullaby? Use vivid imagery."}
+{"pid": "P02311", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a sunflower field. Make it funny."}
+{"pid": "P00814", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about an apple orchard. Make it a little melancholy."}
+{"pid": "P01183", "type": "rhyming couplets", "src": "poem-template", "prompt": "Write a poem in rhyming couplets about a broken vase. Keep it light and playful."}
+{"pid": "P00710", "type": "poem", "src": "poem-template", "prompt": "I'd like a short poem about a desert flower. Use vivid imagery."}
+{"pid": "P02264", "type": "ballad", "src": "poem-template", "prompt": "Can you write a ballad about a library at closing time? Make it joyful."}
+{"pid": "P02742", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about the smell of rain? Keep it light and playful."}
+{"pid": "P01576", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a goodbye at the airport? Make it hopeful."}
+{"pid": "P02564", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about a river in spring. Make it calm and peaceful."}
+{"pid": "P00753", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about the end of a long week. Keep it light and playful."}
+{"pid": "P00649", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a fox in the snow. Keep it light and playful."}
+{"pid": "P00714", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a train window. Make it funny."}
+{"pid": "P02089", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a fox in the snow. Use vivid imagery."}
+{"pid": "P01296", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about the passing of time. Keep it under twelve lines."}
+{"pid": "P01716", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a snowman melting. Make it a little melancholy."}
+{"pid": "P00605", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a tired teacher. Make it bittersweet."}
+{"pid": "P01552", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about an evening walk? Write it for a child."}
+{"pid": "P02450", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a new puppy. Make it hopeful."}
+{"pid": "P01220", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a busy train station at rush hour. Write it for a child."}
+{"pid": "P01954", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a school bell. Make it a little melancholy."}
+{"pid": "P00895", "type": "villanelle", "src": "poem-template", "prompt": "I'd like a villanelle about an old oak tree. Keep it under twelve lines."}
+{"pid": "P02064", "type": "ode", "src": "poem-template", "prompt": "I'd like an ode about a lighthouse. Keep it light and playful."}
+{"pid": "P01741", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about a crowded beach in August. Make it hopeful."}
+{"pid": "P02663", "type": "ballad", "src": "poem-template", "prompt": "I'd like a ballad about an abandoned house. Keep it under twelve lines."}
+{"pid": "P02395", "type": "tanka", "src": "poem-template", "prompt": "I'd like a tanka about a night market. Make it funny."}
+{"pid": "P01527", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a game of chess. Keep it light and playful."}
+{"pid": "P02346", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a bakery at five in the morning. Make it joyful."}
+{"pid": "P02607", "type": "villanelle", "src": "poem-template", "prompt": "Write a villanelle about a lighthouse keeper. Make it calm and peaceful."}
+{"pid": "P02329", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about a fox in the snow."}
+{"pid": "P00719", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about the ocean at night. Keep it under twelve lines."}
+{"pid": "P00506", "type": "ode", "src": "poem-template", "prompt": "I'd like an ode about a lighthouse. Keep the language simple."}
+{"pid": "P02471", "type": "acrostic poem", "src": "poem-template", "prompt": "Please write an acrostic poem about a broken umbrella. Make it funny."}
+{"pid": "P02861", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about an old photograph? Make it a little melancholy."}
+{"pid": "P00952", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about the hum of a refrigerator at night. Keep the language simple."}
+{"pid": "P00066", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a broken vase. Keep it under twelve lines."}
+{"pid": "P02269", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about a stack of old letters. Make it funny."}
+{"pid": "P02797", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about a forest path. Keep the language simple."}
+{"pid": "P00233", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a bridge in the fog. Keep it under twelve lines."}
+{"pid": "P00946", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about a jazz club. Make it bittersweet."}
+{"pid": "P02520", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about the last bus home. Make it joyful."}
+{"pid": "P00178", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about the subway at midnight. Keep the language simple."}
+{"pid": "P01907", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a school bell. Keep it under twelve lines."}
+{"pid": "P01125", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a spider's web at dawn. Keep it light and playful."}
+{"pid": "P00980", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about the end of a long week. Keep the language simple."}
+{"pid": "P01627", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about the city in snow. Make it calm and peaceful."}
+{"pid": "P02916", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about the city in snow. Keep the language simple."}
+{"pid": "P02380", "type": "sonnet", "src": "poem-template", "prompt": "Please write a sonnet about a summer wedding. Make it funny."}
+{"pid": "P00103", "type": "prose poem", "src": "poem-template", "prompt": "I'd like a prose poem about a bicycle in the rain. Make it joyful."}
+{"pid": "P00036", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about a cup of tea. Keep the language simple."}
+{"pid": "P02243", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a bakery at five in the morning. Make it a little melancholy."}
+{"pid": "P02174", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about a dandelion. Make it joyful."}
+{"pid": "P01854", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about a garden after rain. Use vivid imagery."}
+{"pid": "P01840", "type": "rhyming couplets", "src": "poem-template", "prompt": "Write a poem in rhyming couplets about an old photograph. Make it joyful."}
+{"pid": "P02873", "type": "acrostic poem", "src": "poem-template", "prompt": "Write an acrostic poem about my grandmother's kitchen. Keep it under twelve lines."}
+{"pid": "P01005", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a hospital waiting room. Keep it under twelve lines."}
+{"pid": "P00453", "type": "sonnet", "src": "poem-template", "prompt": "Compose a sonnet about a nurse on the night shift. Keep it light and playful."}
+{"pid": "P00845", "type": "ballad", "src": "poem-template", "prompt": "Compose a ballad about a woman planting tulips. Make it joyful."}
+{"pid": "P01686", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about a village festival. Make it joyful."}
+{"pid": "P00823", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a carousel. Make it calm and peaceful."}
+{"pid": "P00834", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a cello. Make it joyful."}
+{"pid": "P01271", "type": "rhyming couplets", "src": "poem-template", "prompt": "Write a poem in rhyming couplets about a quiet Sunday. Keep it light and playful."}
+{"pid": "P01426", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a sleepy town. Make it joyful."}
+{"pid": "P01410", "type": "ballad", "src": "poem-template", "prompt": "Please write a ballad about a dog waiting by the door. Make it hopeful."}
+{"pid": "P02655", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a grandmother knitting. Make it bittersweet."}
+{"pid": "P02565", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a street musician? Keep the language simple."}
+{"pid": "P00444", "type": "sonnet", "src": "poem-template", "prompt": "Compose a sonnet about a well-worn armchair. Make it calm and peaceful."}
+{"pid": "P02228", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about a bakery at five in the morning. Use vivid imagery."}
+{"pid": "P00530", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Compose a poem of three stanzas about a stack of old letters. Keep the language simple."}
+{"pid": "P01630", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a snowman melting. Keep it under twelve lines."}
+{"pid": "P00790", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about my grandmother's kitchen. Make it funny."}
+{"pid": "P00098", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about a school bell. Write it for a child."}
+{"pid": "P00846", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a lost key. Make it joyful."}
+{"pid": "P01964", "type": "sonnet", "src": "poem-template", "prompt": "I'd like a sonnet about autumn leaves. Write it for a child."}
+{"pid": "P00292", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about the first day of a new job? Keep it light and playful."}
+{"pid": "P00113", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about a hummingbird. Keep it light and playful."}
+{"pid": "P00707", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about a child building a sandcastle. Write it for a child."}
+{"pid": "P00909", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about the moon over a quiet lake. Make it hopeful."}
+{"pid": "P02667", "type": "rhyming couplets", "src": "poem-template", "prompt": "Write a poem in rhyming couplets about a sleepy town. Make it hopeful."}
+{"pid": "P00195", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about the smell of pine. Use vivid imagery."}
+{"pid": "P02051", "type": "limerick", "src": "poem-template", "prompt": "I'd like a limerick about a sleepy town. Make it joyful."}
+{"pid": "P02326", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about stars over the desert? Write it for a child."}
+{"pid": "P00190", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about autumn leaves. Make it calm and peaceful."}
+{"pid": "P01685", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a garden after rain?"}
+{"pid": "P02978", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a single candle. Write it for a child."}
+{"pid": "P02910", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about the winter solstice? Keep it light and playful."}
+{"pid": "P00769", "type": "ballad", "src": "poem-template", "prompt": "Write a ballad about a paper boat."}
+{"pid": "P00082", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a city at dawn?"}
+{"pid": "P01505", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a market in the morning. Make it a little melancholy."}
+{"pid": "P00808", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about a woman planting tulips? Use vivid imagery."}
+{"pid": "P02150", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a lighthouse keeper. Write it for a child."}
+{"pid": "P01769", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a farmer at sunrise. Make it joyful."}
+{"pid": "P00571", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a game of chess. Keep it under twelve lines."}
+{"pid": "P00418", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a jazz club. Make it a little melancholy."}
+{"pid": "P01395", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a game of chess? Make it bittersweet."}
+{"pid": "P02468", "type": "sonnet", "src": "poem-template", "prompt": "Compose a sonnet about an old photograph. Make it joyful."}
+{"pid": "P00160", "type": "ballad", "src": "poem-template", "prompt": "Can you write a ballad about the northern lights? Keep it under twelve lines."}
+{"pid": "P00547", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about a firefighter. Keep it under twelve lines."}
+{"pid": "P02081", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a violin. Write it for a child."}
+{"pid": "P01488", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about an unfinished painting? Keep it light and playful."}
+{"pid": "P00579", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about an old bookstore. Keep it under twelve lines."}
+{"pid": "P00167", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a busy restaurant kitchen. Write it for a child."}
+{"pid": "P00369", "type": "prose poem", "src": "poem-template", "prompt": "I'd like a prose poem about a snail after rain. Keep it under twelve lines."}
+{"pid": "P01638", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a firefighter? Keep the language simple."}
+{"pid": "P01972", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a goodbye at the airport. Use vivid imagery."}
+{"pid": "P00848", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a rooftop at sunset. Keep the language simple."}
+{"pid": "P00218", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about a jazz club. Use vivid imagery."}
+{"pid": "P01667", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a game of chess. Keep it light and playful."}
+{"pid": "P00102", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a bridge in the fog? Keep it under twelve lines."}
+{"pid": "P01980", "type": "tanka", "src": "poem-template", "prompt": "I'd like a tanka about the sound of the sea. Keep the language simple."}
+{"pid": "P02178", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about the passing of time. Keep the language simple."}
+{"pid": "P00503", "type": "acrostic poem", "src": "poem-template", "prompt": "Compose an acrostic poem about an apple orchard. Keep it under twelve lines."}
+{"pid": "P01925", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about a snowman melting. Make it a little melancholy."}
+{"pid": "P00817", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about a lost glove. Make it bittersweet."}
+{"pid": "P00057", "type": "acrostic poem", "src": "poem-template", "prompt": "I'd like an acrostic poem about a frozen pond. Keep it light and playful."}
+{"pid": "P00168", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about the last bus home. Make it calm and peaceful."}
+{"pid": "P00231", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a broken vase. Keep the language simple."}
+{"pid": "P01995", "type": "poem", "src": "poem-template", "prompt": "I'd like a short poem about a sailor's return. Make it joyful."}
+{"pid": "P01085", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a cello. Make it hopeful."}
+{"pid": "P00226", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a lemon tree. Use vivid imagery."}
+{"pid": "P00020", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a spider's web at dawn? Make it calm and peaceful."}
+{"pid": "P00199", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a stack of old letters. Make it bittersweet."}
+{"pid": "P02753", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a field of wheat. Write it for a child."}
+{"pid": "P02899", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about the first snow of winter. Make it bittersweet."}
+{"pid": "P00448", "type": "acrostic poem", "src": "poem-template", "prompt": "Write an acrostic poem about a quiet hospital corridor. Keep it light and playful."}
+{"pid": "P00463", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about a ferry crossing. Keep it under twelve lines."}
+{"pid": "P02823", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about a frozen pond. Make it a little melancholy."}
+{"pid": "P00686", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a crow on a fence? Make it bittersweet."}
+{"pid": "P00742", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a firefighter. Make it hopeful."}
+{"pid": "P00917", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a game of chess. Make it a little melancholy."}
+{"pid": "P02464", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a school bell. Keep it under twelve lines."}
+{"pid": "P01312", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a pair of worn-out shoes. Keep it light and playful."}
+{"pid": "P00337", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a bowl of cherries. Make it funny."}
+{"pid": "P01926", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about a dog waiting by the door. Keep it under twelve lines."}
+{"pid": "P02392", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a long-distance phone call. Make it a little melancholy."}
+{"pid": "P02472", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a cello. Keep it light and playful."}
+{"pid": "P00557", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a rooftop at sunset. Make it bittersweet."}
+{"pid": "P00893", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a rainbow after the storm? Keep the language simple."}
+{"pid": "P00564", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a mountain lake? Make it a little melancholy."}
+{"pid": "P02424", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about stars over the desert. Keep it under twelve lines."}
+{"pid": "P00341", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about the passing of time. Make it calm and peaceful."}
+{"pid": "P00600", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about the first snow of winter? Keep it under twelve lines."}
+{"pid": "P00459", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about the sound of the sea. Keep it under twelve lines."}
+{"pid": "P00397", "type": "prose poem", "src": "poem-template", "prompt": "I'd like a prose poem about a game of chess. Make it calm and peaceful."}
+{"pid": "P00442", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about a lost key? Make it joyful."}
+{"pid": "P02332", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about a garden gnome. Make it a little melancholy."}
+{"pid": "P00408", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about a violin. Keep it under twelve lines."}
+{"pid": "P01219", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about a thunderstorm. Keep it light and playful."}
+{"pid": "P00293", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a clothesline in the wind. Keep the language simple."}
+{"pid": "P01714", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about a grandmother knitting. Make it funny."}
+{"pid": "P01108", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about a grandmother knitting. Make it joyful."}
+{"pid": "P01373", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a garden gnome. Write it for a child."}
+{"pid": "P02942", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a thunderstorm at sea. Make it funny."}
+{"pid": "P01467", "type": "ballad", "src": "poem-template", "prompt": "Please write a ballad about a crow on a fence. Use vivid imagery."}
+{"pid": "P02902", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a farmer at sunrise. Keep the language simple."}
+{"pid": "P01580", "type": "villanelle", "src": "poem-template", "prompt": "I'd like a villanelle about a fishing village. Make it joyful."}
+{"pid": "P00484", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about a sailor's return. Keep it under twelve lines."}
+{"pid": "P02306", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about my grandmother's kitchen. Keep it light and playful."}
+{"pid": "P01202", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a busy beehive. Make it bittersweet."}
+{"pid": "P00018", "type": "poem", "src": "poem-template", "prompt": "I'd like a short poem about a ferry crossing. Make it funny."}
+{"pid": "P01935", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Compose a poem of three stanzas about the subway at midnight. Use vivid imagery."}
+{"pid": "P00220", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about the sound of the sea. Make it hopeful."}
+{"pid": "P02198", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a violin. Make it funny."}
+{"pid": "P00159", "type": "acrostic poem", "src": "poem-template", "prompt": "Write an acrostic poem about a jazz club. Make it joyful."}
+{"pid": "P01339", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a birthday cake. Write it for a child."}
+{"pid": "P01424", "type": "acrostic poem", "src": "poem-template", "prompt": "Please write an acrostic poem about a lemon tree. Make it funny."}
+{"pid": "P02098", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about a mother's lullaby. Make it calm and peaceful."}
+{"pid": "P00511", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about the first snow of winter. Keep it under twelve lines."}
+{"pid": "P02481", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about a quiet Sunday? Make it hopeful."}
+{"pid": "P02582", "type": "acrostic poem", "src": "poem-template", "prompt": "Please write an acrostic poem about the sound of the sea."}
+{"pid": "P01509", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a busy restaurant kitchen?"}
+{"pid": "P01199", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about the tide coming in. Write it for a child."}
+{"pid": "P02465", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a bakery at five in the morning? Make it joyful."}
+{"pid": "P00658", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a paper boat. Use vivid imagery."}
+{"pid": "P02499", "type": "sonnet", "src": "poem-template", "prompt": "Please write a sonnet about a snowman melting. Make it calm and peaceful."}
+{"pid": "P01800", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a kite on a windy day. Make it hopeful."}
+{"pid": "P00687", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about a dandelion. Keep it light and playful."}
+{"pid": "P00810", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about an unfinished painting. Keep it light and playful."}
+{"pid": "P00493", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about the color blue. Keep the language simple."}
+{"pid": "P01959", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a bridge in the fog. Make it a little melancholy."}
+{"pid": "P01480", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a cello? Make it bittersweet."}
+{"pid": "P01863", "type": "tanka", "src": "poem-template", "prompt": "I'd like a tanka about the northern lights. Write it for a child."}
+{"pid": "P01762", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about a postcard from abroad. Write it for a child."}
+{"pid": "P02904", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about a goodbye at the airport. Make it bittersweet."}
+{"pid": "P02992", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a lighthouse keeper. Keep it under twelve lines."}
+{"pid": "P02047", "type": "rhyming couplets", "src": "poem-template", "prompt": "Write a poem in rhyming couplets about a fishing village. Use vivid imagery."}
+{"pid": "P00920", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about a library at closing time. Make it funny."}
+{"pid": "P01579", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a summer thunder shower. Make it hopeful."}
+{"pid": "P01941", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about a rooftop at sunset. Keep it light and playful."}
+{"pid": "P00678", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a garden gnome. Use vivid imagery."}
+{"pid": "P02188", "type": "sonnet", "src": "poem-template", "prompt": "Please write a sonnet about a quiet Sunday. Keep it light and playful."}
+{"pid": "P00002", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about a lost glove. Keep it light and playful."}
+{"pid": "P01675", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about moving to a new city? Make it joyful."}
+{"pid": "P01191", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about a busy train station at rush hour. Make it a little melancholy."}
+{"pid": "P00632", "type": "acrostic poem", "src": "poem-template", "prompt": "Can you write an acrostic poem about a heron at the river? Make it hopeful."}
+{"pid": "P00689", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a thunderstorm? Make it a little melancholy."}
+{"pid": "P00179", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a hot-air balloon. Make it bittersweet."}
+{"pid": "P02993", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a picnic. Make it calm and peaceful."}
+{"pid": "P02152", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a cracked teacup. Make it hopeful."}
+{"pid": "P02828", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a child building a sandcastle. Make it bittersweet."}
+{"pid": "P02325", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about the last bus home. Write it for a child."}
+{"pid": "P02212", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a lost key? Keep it under twelve lines."}
+{"pid": "P00313", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about the tide coming in? Make it calm and peaceful."}
+{"pid": "P01624", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about the first frost? Write it for a child."}
+{"pid": "P00998", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about a cat asleep in a patch of sun. Make it joyful."}
+{"pid": "P01211", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about the first frost. Keep the language simple."}
+{"pid": "P01068", "type": "tanka", "src": "poem-template", "prompt": "I'd like a tanka about a garden after rain. Keep it under twelve lines."}
+{"pid": "P02587", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about the winter solstice."}
+{"pid": "P00510", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a bridge in the fog. Keep it under twelve lines."}
+{"pid": "P02896", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a woman planting tulips."}
+{"pid": "P00194", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a cracked teacup? Keep it under twelve lines."}
+{"pid": "P00677", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a marathon runner. Make it funny."}
+{"pid": "P02363", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Compose a poem of three stanzas about a single candle. Make it funny."}
+{"pid": "P00659", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a frozen pond. Make it bittersweet."}
+{"pid": "P00534", "type": "sonnet", "src": "poem-template", "prompt": "I'd like a sonnet about a lost glove. Write it for a child."}
+{"pid": "P02615", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about stars over the desert? Make it a little melancholy."}
+{"pid": "P00887", "type": "limerick", "src": "poem-template", "prompt": "I'd like a limerick about an old oak tree. Use vivid imagery."}
+{"pid": "P00458", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a broken vase. Make it calm and peaceful."}
+{"pid": "P00558", "type": "acrostic poem", "src": "poem-template", "prompt": "Compose an acrostic poem about a new puppy. Keep the language simple."}
+{"pid": "P02545", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about the hum of a refrigerator at night. Write it for a child."}
+{"pid": "P01706", "type": "sonnet", "src": "poem-template", "prompt": "Compose a sonnet about a quiet hospital corridor. Make it hopeful."}
+{"pid": "P00901", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about the smell of rain. Make it bittersweet."}
+{"pid": "P01308", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about the end of a long week."}
+{"pid": "P02524", "type": "ode", "src": "poem-template", "prompt": "Can you write an ode about a market in the morning? Keep the language simple."}
+{"pid": "P00824", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about an attic full of boxes. Keep it light and playful."}
+{"pid": "P02162", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a goodbye at the airport. Make it calm and peaceful."}
+{"pid": "P01415", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a bakery at five in the morning. Keep it under twelve lines."}
+{"pid": "P02185", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a rainy afternoon. Keep the language simple."}
+{"pid": "P01153", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a rainy afternoon. Make it funny."}
+{"pid": "P02766", "type": "ballad", "src": "poem-template", "prompt": "I'd like a ballad about a new puppy. Make it joyful."}
+{"pid": "P02390", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a lost glove. Make it joyful."}
+{"pid": "P01912", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about a snowy owl. Make it calm and peaceful."}
+{"pid": "P02542", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about an abandoned house. Keep it light and playful."}
+{"pid": "P02353", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a child building a sandcastle. Make it a little melancholy."}
+{"pid": "P02935", "type": "ode", "src": "poem-template", "prompt": "Please write an ode about a bakery at five in the morning. Make it funny."}
+{"pid": "P00320", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Compose a poem of three stanzas about the smell of rain. Write it for a child."}
+{"pid": "P00439", "type": "villanelle", "src": "poem-template", "prompt": "Can you write a villanelle about a firefighter? Keep it under twelve lines."}
+{"pid": "P02072", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a bakery at five in the morning. Use vivid imagery."}
+{"pid": "P02436", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a lost key. Use vivid imagery."}
+{"pid": "P01748", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a single candle. Keep the language simple."}
+{"pid": "P00383", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a sunflower field. Write it for a child."}
+{"pid": "P02209", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about a bus driver. Make it funny."}
+{"pid": "P01794", "type": "rhyming couplets", "src": "poem-template", "prompt": "Can you write a poem in rhyming couplets about the subway at midnight? Make it hopeful."}
+{"pid": "P02670", "type": "acrostic poem", "src": "poem-template", "prompt": "I'd like an acrostic poem about the color blue. Make it funny."}
+{"pid": "P01567", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about a lemon tree. Make it funny."}
+{"pid": "P02805", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about a clothesline in the wind. Make it bittersweet."}
+{"pid": "P02848", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a forest path?"}
+{"pid": "P00132", "type": "rhyming couplets", "src": "poem-template", "prompt": "Can you write a poem in rhyming couplets about a field of wheat? Keep the language simple."}
+{"pid": "P02063", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about a sunflower field. Keep it light and playful."}
+{"pid": "P01672", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a seashell. Keep it light and playful."}
+{"pid": "P01649", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a long road trip. Use vivid imagery."}
+{"pid": "P02812", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a forgotten letter? Make it bittersweet."}
+{"pid": "P01778", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about an abandoned house? Make it a little melancholy."}
+{"pid": "P00883", "type": "ballad", "src": "poem-template", "prompt": "Compose a ballad about a river in spring. Keep it under twelve lines."}
+{"pid": "P00163", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about a rainbow after the storm. Make it funny."}
+{"pid": "P00826", "type": "acrostic poem", "src": "poem-template", "prompt": "Can you write an acrostic poem about a library at closing time? Keep the language simple."}
+{"pid": "P00382", "type": "sonnet", "src": "poem-template", "prompt": "Please write a sonnet about an unfinished painting."}
+{"pid": "P00245", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about a mountain lake."}
+{"pid": "P01889", "type": "sonnet", "src": "poem-template", "prompt": "I'd like a sonnet about a wild horse. Keep the language simple."}
+{"pid": "P02101", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about the tide coming in? Use vivid imagery."}
+{"pid": "P00724", "type": "free-verse poem", "src": "poem-template", "prompt": "I'd like a free-verse poem about a garden after rain. Keep the language simple."}
+{"pid": "P01873", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Compose a poem of three stanzas about a busy restaurant kitchen. Keep it light and playful."}
+{"pid": "P01814", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a grandmother knitting. Write it for a child."}
+{"pid": "P02990", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a woman planting tulips. Make it joyful."}
+{"pid": "P01979", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a mother's lullaby? Make it hopeful."}
+{"pid": "P01370", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a forgotten letter."}
+{"pid": "P00787", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a sleepy town. Use vivid imagery."}
+{"pid": "P02999", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a goodbye at the airport? Make it a little melancholy."}
+{"pid": "P02496", "type": "rhyming couplets", "src": "poem-template", "prompt": "I'd like a poem in rhyming couplets about a wild horse. Make it a little melancholy."}
+{"pid": "P01038", "type": "villanelle", "src": "poem-template", "prompt": "I'd like a villanelle about a city at dawn. Make it funny."}
+{"pid": "P00546", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about the northern lights. Keep the language simple."}
+{"pid": "P00279", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about the last day of summer. Keep it under twelve lines."}
+{"pid": "P02859", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a crowded beach in August. Write it for a child."}
+{"pid": "P00771", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a quiet hospital corridor. Use vivid imagery."}
+{"pid": "P02086", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a night market? Keep the language simple."}
+{"pid": "P02009", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a street musician. Keep it under twelve lines."}
+{"pid": "P00157", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about a farmer at sunrise."}
+{"pid": "P00828", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about a firefighter. Keep the language simple."}
+{"pid": "P02584", "type": "villanelle", "src": "poem-template", "prompt": "Write a villanelle about the first day of a new job. Make it hopeful."}
+{"pid": "P00532", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a goodbye at the airport. Keep it light and playful."}
+{"pid": "P02343", "type": "rhyming couplets", "src": "poem-template", "prompt": "Can you write a poem in rhyming couplets about a rainbow after the storm? Write it for a child."}
+{"pid": "P01561", "type": "prose poem", "src": "poem-template", "prompt": "I'd like a prose poem about a tired teacher. Make it joyful."}
+{"pid": "P02203", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about the city in snow. Make it bittersweet."}
+{"pid": "P00029", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about the hum of a refrigerator at night. Make it hopeful."}
+{"pid": "P01893", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a summer wedding. Make it a little melancholy."}
+{"pid": "P00540", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about the ocean at night. Use vivid imagery."}
+{"pid": "P02383", "type": "acrostic poem", "src": "poem-template", "prompt": "Compose an acrostic poem about a rainbow after the storm. Keep the language simple."}
+{"pid": "P02407", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about a stack of old letters? Make it hopeful."}
+{"pid": "P02611", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about a cat asleep in a patch of sun? Make it funny."}
+{"pid": "P00280", "type": "villanelle", "src": "poem-template", "prompt": "Write a villanelle about a market in the morning. Make it a little melancholy."}
+{"pid": "P01120", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a cello. Use vivid imagery."}
+{"pid": "P02925", "type": "ballad", "src": "poem-template", "prompt": "Please write a ballad about a busy train station at rush hour. Make it funny."}
+{"pid": "P01436", "type": "ode", "src": "poem-template", "prompt": "Write an ode about the city in snow. Keep it under twelve lines."}
+{"pid": "P00259", "type": "acrostic poem", "src": "poem-template", "prompt": "Can you write an acrostic poem about a broken vase? Keep it light and playful."}
+{"pid": "P00792", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a train window?"}
+{"pid": "P01815", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about a crow on a fence. Keep it under twelve lines."}
+{"pid": "P00777", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a desert flower? Use vivid imagery."}
+{"pid": "P00222", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about a rainy afternoon. Keep the language simple."}
+{"pid": "P02998", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about a summer wedding. Make it joyful."}
+{"pid": "P01384", "type": "poem of three stanzas", "src": "poem-template", "prompt": "I'd like a poem of three stanzas about the color blue. Make it bittersweet."}
+{"pid": "P00274", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about moving to a new city. Make it bittersweet."}
+{"pid": "P01461", "type": "villanelle", "src": "poem-template", "prompt": "I'd like a villanelle about a bridge in the fog. Make it calm and peaceful."}
+{"pid": "P01897", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a quiet Sunday. Keep the language simple."}
+{"pid": "P02491", "type": "acrostic poem", "src": "poem-template", "prompt": "Compose an acrostic poem about a garden after rain."}
+{"pid": "P01953", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a lighthouse keeper? Make it bittersweet."}
+{"pid": "P01369", "type": "ode", "src": "poem-template", "prompt": "Write an ode about a seashell. Keep it under twelve lines."}
+{"pid": "P01189", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a pot of soup."}
+{"pid": "P02270", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about an old piano? Keep it under twelve lines."}
+{"pid": "P02476", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about an old bookstore. Make it hopeful."}
+{"pid": "P02295", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about a mother's lullaby. Keep it light and playful."}
+{"pid": "P02493", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a rainbow after the storm. Keep the language simple."}
+{"pid": "P00370", "type": "cinquain", "src": "poem-template", "prompt": "Please write a cinquain about a grandmother knitting. Make it funny."}
+{"pid": "P00663", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a sailor's return. Make it a little melancholy."}
+{"pid": "P02948", "type": "acrostic poem", "src": "poem-template", "prompt": "Write an acrostic poem about a violin."}
+{"pid": "P02784", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about fireflies on a summer evening. Make it joyful."}
+{"pid": "P02672", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about an attic full of boxes."}
+{"pid": "P01478", "type": "ballad", "src": "poem-template", "prompt": "I'd like a ballad about coffee on a Monday morning. Keep it under twelve lines."}
+{"pid": "P00938", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about a spider's web at dawn. Make it joyful."}
+{"pid": "P01533", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a broken vase? Make it hopeful."}
+{"pid": "P00954", "type": "ballad", "src": "poem-template", "prompt": "I'd like a ballad about a heron at the river. Use vivid imagery."}
+{"pid": "P01081", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a snail after rain. Use vivid imagery."}
+{"pid": "P02697", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a snowman melting? Use vivid imagery."}
+{"pid": "P00733", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a wild horse."}
+{"pid": "P01131", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about a heron at the river. Keep it light and playful."}
+{"pid": "P02755", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about a snowy owl. Keep it under twelve lines."}
+{"pid": "P00482", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a clothesline in the wind. Make it calm and peaceful."}
+{"pid": "P00490", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about the color blue. Keep it under twelve lines."}
+{"pid": "P01668", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about a hospital waiting room. Use vivid imagery."}
+{"pid": "P00101", "type": "ode", "src": "poem-template", "prompt": "I'd like an ode about coffee on a Monday morning. Make it calm and peaceful."}
+{"pid": "P00942", "type": "ode", "src": "poem-template", "prompt": "Can you write an ode about an old bookstore? Keep the language simple."}
+{"pid": "P01560", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a ferry crossing. Make it calm and peaceful."}
+{"pid": "P01383", "type": "villanelle", "src": "poem-template", "prompt": "Please write a villanelle about a long road trip."}
+{"pid": "P01753", "type": "poem", "src": "poem-template", "prompt": "I'd like a short poem about a pear on a windowsill. Make it hopeful."}
+{"pid": "P01472", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a child's first day of school."}
+{"pid": "P02048", "type": "villanelle", "src": "poem-template", "prompt": "Can you write a villanelle about a bus driver?"}
+{"pid": "P02061", "type": "ballad", "src": "poem-template", "prompt": "Write a ballad about a lighthouse."}
+{"pid": "P02389", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a rainy afternoon. Use vivid imagery."}
+{"pid": "P00207", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about the moon over a quiet lake."}
+{"pid": "P01497", "type": "acrostic poem", "src": "poem-template", "prompt": "Compose an acrostic poem about the end of a long week. Make it calm and peaceful."}
+{"pid": "P02497", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about a summer wedding? Make it a little melancholy."}
+{"pid": "P00970", "type": "sonnet", "src": "poem-template", "prompt": "Please write a sonnet about a farmer at sunrise. Use vivid imagery."}
+{"pid": "P01396", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a desert flower. Make it a little melancholy."}
+{"pid": "P02915", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about the end of a long week? Make it a little melancholy."}
+{"pid": "P00800", "type": "villanelle", "src": "poem-template", "prompt": "Write a villanelle about the end of a long week. Make it bittersweet."}
+{"pid": "P01735", "type": "acrostic poem", "src": "poem-template", "prompt": "Write an acrostic poem about the end of a long week. Make it bittersweet."}
+{"pid": "P02735", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a goodbye at the airport. Keep it under twelve lines."}
+{"pid": "P01558", "type": "sonnet", "src": "poem-template", "prompt": "I'd like a sonnet about coming home after a long trip. Make it funny."}
+{"pid": "P01591", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about autumn leaves. Make it funny."}
+{"pid": "P01652", "type": "villanelle", "src": "poem-template", "prompt": "Can you write a villanelle about coming home after a long trip?"}
+{"pid": "P02360", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a hummingbird. Keep it light and playful."}
+{"pid": "P00746", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a single candle. Make it hopeful."}
+{"pid": "P01215", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about fireflies on a summer evening."}
+{"pid": "P01910", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a garden after rain. Make it joyful."}
+{"pid": "P02055", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a thunderstorm at sea. Write it for a child."}
+{"pid": "P00481", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a long-distance phone call. Write it for a child."}
+{"pid": "P00989", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about a fishing village."}
+{"pid": "P01628", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about the smell of pine. Make it joyful."}
+{"pid": "P01140", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a bakery at five in the morning."}
+{"pid": "P01324", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a bridge in the fog. Keep it light and playful."}
+{"pid": "P02437", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about the hum of a refrigerator at night. Write it for a child."}
+{"pid": "P01918", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a stack of old letters. Make it a little melancholy."}
+{"pid": "P00354", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about the smell of fresh bread?"}
+{"pid": "P02304", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about learning to ride a bike?"}
+{"pid": "P00217", "type": "acrostic poem", "src": "poem-template", "prompt": "Compose an acrostic poem about the tide coming in. Make it joyful."}
+{"pid": "P00542", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about a rainstorm on a tin roof. Use vivid imagery."}
+{"pid": "P02187", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about a farmer at sunrise? Make it hopeful."}
+{"pid": "P02630", "type": "acrostic poem", "src": "poem-template", "prompt": "Please write an acrostic poem about a game of chess. Make it a little melancholy."}
+{"pid": "P02484", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about the sound of the sea. Make it calm and peaceful."}
+{"pid": "P00131", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about a seashell. Make it calm and peaceful."}
+{"pid": "P01428", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a postcard from abroad. Make it funny."}
+{"pid": "P01936", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about a child's first day of school. Write it for a child."}
+{"pid": "P02502", "type": "free-verse poem", "src": "poem-template", "prompt": "I'd like a free-verse poem about a clothesline in the wind. Keep the language simple."}
+{"pid": "P01149", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about a bakery at five in the morning? Make it bittersweet."}
+{"pid": "P01445", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a train window? Keep it under twelve lines."}
+{"pid": "P01928", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about a tired teacher? Make it bittersweet."}
+{"pid": "P01166", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a garden gnome. Make it calm and peaceful."}
+{"pid": "P02262", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a pot of soup? Use vivid imagery."}
+{"pid": "P01180", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a clothesline in the wind? Keep it light and playful."}
+{"pid": "P01446", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about the tide coming in. Use vivid imagery."}
+{"pid": "P01172", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about the last day of summer. Make it funny."}
+{"pid": "P01026", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about a village festival? Keep the language simple."}
+{"pid": "P01423", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about a rooftop at sunset. Make it a little melancholy."}
+{"pid": "P00041", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about the last bus home. Write it for a child."}
+{"pid": "P02964", "type": "limerick", "src": "poem-template", "prompt": "I'd like a limerick about a hospital waiting room. Use vivid imagery."}
+{"pid": "P00955", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about autumn leaves? Make it a little melancholy."}
+{"pid": "P01278", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a fig tree? Write it for a child."}
+{"pid": "P01882", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about a long road trip. Make it joyful."}
+{"pid": "P02364", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about an empty playground? Keep the language simple."}
+{"pid": "P01588", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a quiet hospital corridor? Make it a little melancholy."}
+{"pid": "P00981", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about the last day of summer. Keep it under twelve lines."}
+{"pid": "P02893", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a postcard from abroad. Make it hopeful."}
+{"pid": "P02214", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a sunflower field. Make it bittersweet."}
+{"pid": "P00616", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about a snowy owl? Make it calm and peaceful."}
+{"pid": "P00372", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a cello. Keep the language simple."}
+{"pid": "P01546", "type": "ode", "src": "poem-template", "prompt": "I'd like an ode about a lemon tree. Keep the language simple."}
+{"pid": "P01411", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about a grandfather's watch? Keep it under twelve lines."}
+{"pid": "P00850", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a street musician? Keep it light and playful."}
+{"pid": "P01086", "type": "sonnet", "src": "poem-template", "prompt": "Write a sonnet about a grandmother knitting. Make it a little melancholy."}
+{"pid": "P00081", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about a rainbow after the storm."}
+{"pid": "P02945", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a jazz club. Make it funny."}
+{"pid": "P02401", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about a child's first day of school. Make it joyful."}
+{"pid": "P02839", "type": "limerick", "src": "poem-template", "prompt": "I'd like a limerick about a summer wedding. Keep it light and playful."}
+{"pid": "P00806", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a fishing village. Make it funny."}
+{"pid": "P01185", "type": "ode", "src": "poem-template", "prompt": "Can you write an ode about a bridge in the fog? Make it funny."}
+{"pid": "P02411", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a cat asleep in a patch of sun? Keep it light and playful."}
+{"pid": "P01118", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a field of wheat. Make it bittersweet."}
+{"pid": "P01898", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about a garden after rain? Make it hopeful."}
+{"pid": "P01650", "type": "limerick", "src": "poem-template", "prompt": "I'd like a limerick about a fishing village. Make it funny."}
+{"pid": "P02538", "type": "four-line poem", "src": "poem-template", "prompt": "Please write a four-line poem about a sailor's return. Make it bittersweet."}
+{"pid": "P02121", "type": "ballad", "src": "poem-template", "prompt": "Can you write a ballad about a rainy afternoon?"}
+{"pid": "P00447", "type": "rhyming couplets", "src": "poem-template", "prompt": "Can you write a poem in rhyming couplets about a frozen pond? Make it a little melancholy."}
+{"pid": "P02646", "type": "ballad", "src": "poem-template", "prompt": "Compose a ballad about a busy beehive. Keep it under twelve lines."}
+{"pid": "P00665", "type": "cinquain", "src": "poem-template", "prompt": "I'd like a cinquain about the smell of rain. Make it calm and peaceful."}
+{"pid": "P01450", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about a pair of worn-out shoes. Keep it under twelve lines."}
+{"pid": "P00704", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about an old piano. Keep it under twelve lines."}
+{"pid": "P00761", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about my grandmother's kitchen. Keep it under twelve lines."}
+{"pid": "P00301", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about the first warm day of spring. Write it for a child."}
+{"pid": "P00256", "type": "four-line poem", "src": "poem-template", "prompt": "Write a four-line poem about a child's first day of school. Make it a little melancholy."}
+{"pid": "P01715", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a long road trip? Keep it light and playful."}
+{"pid": "P00962", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about the passing of time."}
+{"pid": "P01049", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about an unfinished painting. Make it calm and peaceful."}
+{"pid": "P01483", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a farmer at sunrise. Make it hopeful."}
+{"pid": "P01148", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a busy restaurant kitchen. Make it a little melancholy."}
+{"pid": "P01439", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about the smell of pine."}
+{"pid": "P01272", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a seashell. Make it calm and peaceful."}
+{"pid": "P01681", "type": "poem of three stanzas", "src": "poem-template", "prompt": "I'd like a poem of three stanzas about autumn leaves. Use vivid imagery."}
+{"pid": "P02227", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a hummingbird. Make it joyful."}
+{"pid": "P01791", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about the smell of rain."}
+{"pid": "P02168", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a dog waiting by the door. Make it funny."}
+{"pid": "P02793", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about a hospital waiting room? Keep it under twelve lines."}
+{"pid": "P01973", "type": "ballad", "src": "poem-template", "prompt": "Please write a ballad about a forest path."}
+{"pid": "P00321", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a farmer at sunrise? Use vivid imagery."}
+{"pid": "P01869", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about a jazz club. Make it funny."}
+{"pid": "P00281", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a farmer at sunrise? Keep it under twelve lines."}
+{"pid": "P02111", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a frozen pond. Make it joyful."}
+{"pid": "P00092", "type": "limerick", "src": "poem-template", "prompt": "I'd like a limerick about a seashell. Use vivid imagery."}
+{"pid": "P00067", "type": "limerick", "src": "poem-template", "prompt": "I'd like a limerick about a crow on a fence. Write it for a child."}
+{"pid": "P02918", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about the moon over a quiet lake? Keep it light and playful."}
+{"pid": "P01262", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Compose a poem of three stanzas about the ocean at night. Write it for a child."}
+{"pid": "P01641", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a hummingbird. Make it a little melancholy."}
+{"pid": "P01236", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a pear on a windowsill. Make it hopeful."}
+{"pid": "P00434", "type": "rhyming couplets", "src": "poem-template", "prompt": "Compose a poem in rhyming couplets about a firefighter. Make it hopeful."}
+{"pid": "P02532", "type": "ballad", "src": "poem-template", "prompt": "Can you write a ballad about a grandfather's watch? Make it joyful."}
+{"pid": "P00648", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about the smell of rain. Make it joyful."}
+{"pid": "P00006", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a lighthouse keeper. Use vivid imagery."}
+{"pid": "P00766", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about a pear on a windowsill. Make it joyful."}
+{"pid": "P00253", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about a night market."}
+{"pid": "P02813", "type": "ode", "src": "poem-template", "prompt": "I'd like an ode about a frozen pond."}
+{"pid": "P01283", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a nurse on the night shift. Make it calm and peaceful."}
+{"pid": "P01468", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a sunflower field. Make it bittersweet."}
+{"pid": "P00702", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about an abandoned house? Make it funny."}
+{"pid": "P02733", "type": "haiku", "src": "poem-template", "prompt": "Can you write a haiku about a hummingbird? Make it bittersweet."}
+{"pid": "P02031", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a cat asleep in a patch of sun? Keep it under twelve lines."}
+{"pid": "P02112", "type": "tanka", "src": "poem-template", "prompt": "Compose a tanka about the end of a long week. Make it funny."}
+{"pid": "P02405", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Compose a poem of three stanzas about an apple orchard. Make it funny."}
+{"pid": "P01442", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about a summer wedding. Make it bittersweet."}
+{"pid": "P02416", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a village festival. Make it hopeful."}
+{"pid": "P00507", "type": "ballad", "src": "poem-template", "prompt": "Write a ballad about a clothesline in the wind. Keep it light and playful."}
+{"pid": "P01291", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a forest path? Make it a little melancholy."}
+{"pid": "P02385", "type": "ode", "src": "poem-template", "prompt": "Write an ode about a paper boat."}
+{"pid": "P02240", "type": "prose poem", "src": "poem-template", "prompt": "Can you write a prose poem about the first day of a new job? Keep it light and playful."}
+{"pid": "P00993", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about a thunderstorm at sea. Keep the language simple."}
+{"pid": "P02521", "type": "sonnet", "src": "poem-template", "prompt": "I'd like a sonnet about an old piano. Make it calm and peaceful."}
+{"pid": "P01360", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about an old photograph? Keep it light and playful."}
+{"pid": "P00968", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a kite on a windy day. Keep it under twelve lines."}
+{"pid": "P02510", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a spider's web at dawn. Make it joyful."}
+{"pid": "P02384", "type": "ballad", "src": "poem-template", "prompt": "Write a ballad about a fig tree. Use vivid imagery."}
+{"pid": "P00312", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a fishing village. Make it bittersweet."}
+{"pid": "P01186", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a quiet hospital corridor? Make it bittersweet."}
+{"pid": "P00832", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a long-distance phone call. Make it bittersweet."}
+{"pid": "P02627", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about a dandelion. Keep it under twelve lines."}
+{"pid": "P00515", "type": "ode", "src": "poem-template", "prompt": "Please write an ode about a kite on a windy day."}
+{"pid": "P01176", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a bowl of cherries? Make it funny."}
+{"pid": "P00310", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about the passing of time. Use vivid imagery."}
+{"pid": "P02156", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a farmer at sunrise. Make it a little melancholy."}
+{"pid": "P02647", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about a nurse on the night shift. Make it a little melancholy."}
+{"pid": "P02297", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about an old bookstore. Make it bittersweet."}
+{"pid": "P01982", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a street musician? Use vivid imagery."}
+{"pid": "P00176", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a dog waiting by the door. Make it funny."}
+{"pid": "P01362", "type": "ode", "src": "poem-template", "prompt": "Can you write an ode about a field of wheat? Keep it light and playful."}
+{"pid": "P01356", "type": "poem", "src": "poem-template", "prompt": "Please write a short poem about a paper boat. Make it funny."}
+{"pid": "P01276", "type": "rhyming poem", "src": "poem-template", "prompt": "I'd like a short rhyming poem about the subway at midnight. Keep the language simple."}
+{"pid": "P01174", "type": "poem of three stanzas", "src": "poem-template", "prompt": "I'd like a poem of three stanzas about a new puppy. Keep it under twelve lines."}
+{"pid": "P02528", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a broken vase. Make it hopeful."}
+{"pid": "P01969", "type": "cinquain", "src": "poem-template", "prompt": "Compose a cinquain about a train window. Write it for a child."}
+{"pid": "P02729", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a thunderstorm. Keep it light and playful."}
+{"pid": "P00244", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about the moon over a quiet lake? Write it for a child."}
+{"pid": "P00399", "type": "poem", "src": "poem-template", "prompt": "Compose a short poem about a well-worn armchair. Make it calm and peaceful."}
+{"pid": "P02062", "type": "limerick", "src": "poem-template", "prompt": "Please write a limerick about a summer wedding. Make it a little melancholy."}
+{"pid": "P02463", "type": "prose poem", "src": "poem-template", "prompt": "I'd like a prose poem about a school bell. Make it calm and peaceful."}
+{"pid": "P00240", "type": "prose poem", "src": "poem-template", "prompt": "I'd like a prose poem about a garden gnome. Make it a little melancholy."}
+{"pid": "P02950", "type": "rhyming couplets", "src": "poem-template", "prompt": "Write a poem in rhyming couplets about a new puppy. Keep the language simple."}
+{"pid": "P01147", "type": "rhyming poem", "src": "poem-template", "prompt": "Compose a short rhyming poem about a firefighter. Keep it under twelve lines."}
+{"pid": "P00615", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about a frozen pond? Keep it under twelve lines."}
+{"pid": "P02930", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about fireflies on a summer evening. Make it a little melancholy."}
+{"pid": "P00086", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a child's first day of school? Make it bittersweet."}
+{"pid": "P00599", "type": "rhyming poem", "src": "poem-template", "prompt": "Please write a short rhyming poem about a library at closing time. Make it calm and peaceful."}
+{"pid": "P00047", "type": "rhyming couplets", "src": "poem-template", "prompt": "Please write a poem in rhyming couplets about a lost key. Make it bittersweet."}
+{"pid": "P02759", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about the first frost. Make it calm and peaceful."}
+{"pid": "P00619", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a bicycle in the rain. Make it a little melancholy."}
+{"pid": "P02104", "type": "rhyming poem", "src": "poem-template", "prompt": "Can you write a short rhyming poem about a thunderstorm at sea? Make it funny."}
+{"pid": "P00812", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a sunflower field. Keep the language simple."}
+{"pid": "P01577", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a child building a sandcastle."}
+{"pid": "P00156", "type": "villanelle", "src": "poem-template", "prompt": "Write a villanelle about a rainy afternoon. Write it for a child."}
+{"pid": "P01516", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a cracked teacup. Make it hopeful."}
+{"pid": "P00428", "type": "ballad", "src": "poem-template", "prompt": "Write a ballad about a night market. Keep it under twelve lines."}
+{"pid": "P00175", "type": "acrostic poem", "src": "poem-template", "prompt": "Please write an acrostic poem about a snowy owl. Make it calm and peaceful."}
+{"pid": "P00392", "type": "rhyming couplets", "src": "poem-template", "prompt": "Write a poem in rhyming couplets about a lighthouse. Make it hopeful."}
+{"pid": "P01775", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about a river in spring. Make it a little melancholy."}
+{"pid": "P02256", "type": "acrostic poem", "src": "poem-template", "prompt": "Please write an acrostic poem about a busy beehive. Keep it light and playful."}
+{"pid": "P02562", "type": "limerick", "src": "poem-template", "prompt": "Can you write a limerick about a fishing village? Keep it light and playful."}
+{"pid": "P00602", "type": "sonnet", "src": "poem-template", "prompt": "Can you write a sonnet about an abandoned house? Make it bittersweet."}
+{"pid": "P00291", "type": "four-line poem", "src": "poem-template", "prompt": "I'd like a four-line poem about the ocean at night. Make it bittersweet."}
+{"pid": "P02003", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about an attic full of boxes. Make it funny."}
+{"pid": "P02563", "type": "rhyming poem", "src": "poem-template", "prompt": "Write a short rhyming poem about the city in snow."}
+{"pid": "P01861", "type": "free-verse poem", "src": "poem-template", "prompt": "Write a free-verse poem about a forest path. Write it for a child."}
+{"pid": "P02731", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about the first day of a new job. Keep the language simple."}
+{"pid": "P02658", "type": "acrostic poem", "src": "poem-template", "prompt": "I'd like an acrostic poem about a fishing village."}
+{"pid": "P00201", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about the subway at midnight. Write it for a child."}
+{"pid": "P02375", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a forest path. Make it hopeful."}
+{"pid": "P02857", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Please write a poem of three stanzas about the first snow of winter. Make it funny."}
+{"pid": "P00237", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a busy beehive."}
+{"pid": "P01798", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a bus driver? Write it for a child."}
+{"pid": "P00874", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a cat asleep in a patch of sun? Keep the language simple."}
+{"pid": "P02354", "type": "villanelle", "src": "poem-template", "prompt": "Can you write a villanelle about a postcard from abroad? Make it hopeful."}
+{"pid": "P00095", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about the first warm day of spring? Make it calm and peaceful."}
+{"pid": "P00700", "type": "ode", "src": "poem-template", "prompt": "Compose an ode about a well-worn armchair. Make it joyful."}
+{"pid": "P00951", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about a snowy owl? Make it bittersweet."}
+{"pid": "P02433", "type": "prose poem", "src": "poem-template", "prompt": "Please write a prose poem about a bicycle in the rain. Keep it under twelve lines."}
+{"pid": "P01543", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a nurse on the night shift. Write it for a child."}
+{"pid": "P00610", "type": "poem", "src": "poem-template", "prompt": "Can you write a short poem about the first warm day of spring? Write it for a child."}
+{"pid": "P00996", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a sailor's return. Make it a little melancholy."}
+{"pid": "P00276", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about the first warm day of spring. Keep it under twelve lines."}
+{"pid": "P00776", "type": "haiku", "src": "poem-template", "prompt": "Compose a haiku about a fig tree. Make it hopeful."}
+{"pid": "P02679", "type": "free-verse poem", "src": "poem-template", "prompt": "Can you write a free-verse poem about a fox in the snow? Keep it light and playful."}
+{"pid": "P00270", "type": "acrostic poem", "src": "poem-template", "prompt": "Write an acrostic poem about a long road trip. Keep it light and playful."}
+{"pid": "P02466", "type": "acrostic poem", "src": "poem-template", "prompt": "Compose an acrostic poem about the city in snow. Keep the language simple."}
+{"pid": "P00573", "type": "ode", "src": "poem-template", "prompt": "Compose an ode about my grandmother's kitchen. Make it funny."}
+{"pid": "P00978", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about a train window. Keep it under twelve lines."}
+{"pid": "P02015", "type": "prose poem", "src": "poem-template", "prompt": "Write a prose poem about coming home after a long trip. Make it a little melancholy."}
+{"pid": "P00300", "type": "four-line poem", "src": "poem-template", "prompt": "Can you write a four-line poem about a summer thunder shower? Keep the language simple."}
+{"pid": "P02386", "type": "four-line poem", "src": "poem-template", "prompt": "Compose a four-line poem about a jazz club. Use vivid imagery."}
+{"pid": "P01835", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Write a poem of three stanzas about a lemon tree. Make it funny."}
+{"pid": "P02082", "type": "haiku", "src": "poem-template", "prompt": "Write a haiku about coming home after a long trip. Keep it light and playful."}
+{"pid": "P02806", "type": "prose poem", "src": "poem-template", "prompt": "Compose a prose poem about a snail after rain. Make it calm and peaceful."}
+{"pid": "P01044", "type": "cinquain", "src": "poem-template", "prompt": "Write a cinquain about a forgotten letter. Keep the language simple."}
+{"pid": "P02890", "type": "tanka", "src": "poem-template", "prompt": "Can you write a tanka about a school bell? Keep the language simple."}
+{"pid": "P01184", "type": "free-verse poem", "src": "poem-template", "prompt": "Compose a free-verse poem about a cracked teacup. Make it hopeful."}
+{"pid": "P02287", "type": "acrostic poem", "src": "poem-template", "prompt": "Please write an acrostic poem about a jazz club. Keep it under twelve lines."}
+{"pid": "P02011", "type": "limerick", "src": "poem-template", "prompt": "Write a limerick about the first frost. Make it hopeful."}
+{"pid": "P02094", "type": "haiku", "src": "poem-template", "prompt": "Please write a haiku about a crow on a fence. Use vivid imagery."}
+{"pid": "P00120", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about a seashell. Make it bittersweet."}
+{"pid": "P01559", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about a grandfather's watch. Make it joyful."}
+{"pid": "P00721", "type": "free-verse poem", "src": "poem-template", "prompt": "Please write a free-verse poem about a cello. Make it joyful."}
+{"pid": "P01372", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Can you write a poem of three stanzas about a hospital waiting room? Make it hopeful."}
+{"pid": "P01836", "type": "villanelle", "src": "poem-template", "prompt": "Write a villanelle about a game of chess. Make it joyful."}
+{"pid": "P02245", "type": "haiku", "src": "poem-template", "prompt": "I'd like a haiku about an abandoned house. Make it joyful."}
+{"pid": "P02330", "type": "villanelle", "src": "poem-template", "prompt": "I'd like a villanelle about a summer thunder shower. Write it for a child."}
+{"pid": "P01361", "type": "poem", "src": "poem-template", "prompt": "I'd like a short poem about a nurse on the night shift. Make it a little melancholy."}
+{"pid": "P00837", "type": "cinquain", "src": "poem-template", "prompt": "Can you write a cinquain about a crow on a fence? Make it joyful."}
+{"pid": "P00402", "type": "poem of three stanzas", "src": "poem-template", "prompt": "Compose a poem of three stanzas about a hot-air balloon."}
+{"pid": "P02838", "type": "tanka", "src": "poem-template", "prompt": "Write a tanka about coffee on a Monday morning. Make it hopeful."}
+{"pid": "P02653", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about a hospital waiting room."}
+{"pid": "P00897", "type": "poem", "src": "poem-template", "prompt": "Write a short poem about a sleepy town. Write it for a child."}
+{"pid": "P02959", "type": "villanelle", "src": "poem-template", "prompt": "Compose a villanelle about the subway at midnight. Keep the language simple."}
+{"pid": "P00957", "type": "limerick", "src": "poem-template", "prompt": "Compose a limerick about a mountain lake. Make it bittersweet."}
+{"pid": "P02775", "type": "tanka", "src": "poem-template", "prompt": "Please write a tanka about a fishing village. Make it bittersweet."}

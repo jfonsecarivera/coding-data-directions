@@ -1,0 +1,43 @@
+{
+ "code_request_ids.jsonl": {
+  "what": "The post's 1,000 coding requests, in draw order, as ids (pid; id = source row, ca:<index in code_alpaca_20k.json> or oc:<row of OpenCoder's evol_instruct parquet>; src; type from the screen) and the sha256 of each request's text. No request text: python -m cdd.pool texts rebuilds it from the two source files and checks the hashes.",
+  "made_by": "python -m cdd.pool collect, screen, sample (13,000 requests), Gemma 3 12B's 8 answers each, python -m cdd.filters, then python -m cdd.pool draw (requests with 2+ eligible answers, random.Random(20261023))",
+  "rows": 1000,
+  "bytes": 151067,
+  "sha256": "1cec84a2c1f4162deabd3cae07ca12beaa944c74eb2f5aa9adce5cddffca85db"
+ },
+ "code_screen.jsonl": {
+  "what": "Claude Haiku 5.5's screen verdicts (id, keep, type) for all 48,468 collected coding requests; with them python -m cdd.pool sample rebuilds the 13,000-request pool exactly. Haiku's free-text reasons are left out.",
+  "made_by": "python -m cdd.pool screen",
+  "rows": 48468,
+  "bytes": 2440818,
+  "sha256": "c1c845cde8cd73e5695868df6fa764a20f1b38b793be6b718418bcb62fd8b6a4"
+ },
+ "poem_templates.json": {
+  "what": "The poem request templates: 16 forms, 147 everyday topics (none about AI or machines), 12 tones and 5 phrasings.",
+  "made_by": "written for this work",
+  "bytes": 4298,
+  "sha256": "a42ceb00bbc5768301c91cd84d9fc5d98089cbb38c7bc874056b441f009bc298"
+ },
+ "poem_requests.jsonl": {
+  "what": "The 3,000 poem requests (pid, type, src, prompt).",
+  "made_by": "python -m cdd.pool poems",
+  "rows": 3000,
+  "bytes": 443972,
+  "sha256": "e8c4d987daf9417f1278aeda8d1b07979bc3e10e8546249952762d411951195c"
+ },
+ "poem_draw.jsonl": {
+  "what": "The 1,000 poem requests that trained copies answered again, in draw order (rows of poem_requests.jsonl).",
+  "made_by": "python -m cdd.pool draw (requests with 2+ eligible round-0 poems, random.Random(20261023))",
+  "rows": 1000,
+  "bytes": 148773,
+  "sha256": "64b092339c5b24a877a616e49760e267600dd294a83301b6d9aaa279f99ab4b1"
+ },
+ "source_datasets": {
+  "sahil2801/CodeAlpaca-20k": {"file": "code_alpaca_20k.json", "license": "CC BY 4.0", "use": "coding requests: every row"},
+  "OpenCoder-LLM/opc-sft-stage2": {"file": "evol_instruct/train-00000-of-00001.parquet", "license": "MIT", "use": "coding requests: a seeded 30,000 rows"},
+  "evalplus/humanevalplus": {"file": "test.jsonl", "revision": "d32357cf319e50e9c8d8dab5ea876c72b0fd321b", "license": "Apache-2.0", "use": "decontamination only"},
+  "evalplus/mbppplus": {"file": "data/test-00000-of-00001-d5781c9c51e02795.parquet", "revision": "b2d74c91837c3f2a20c1299ae98133cbe7cfa077", "license": "Apache-2.0", "use": "decontamination only"},
+  "note": "The CodeAlpaca and OpenCoder licenses are as recorded in the original research code; their revisions were not recorded. The evalplus licenses and revisions are from the Hugging Face dataset cards; with these revisions the decontamination finds the original 20,631 benchmark 10-grams and 396 function names."
+ }
+}
