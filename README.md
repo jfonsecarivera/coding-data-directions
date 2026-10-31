@@ -66,6 +66,16 @@ with the same bootstrap intervals. `--models untouched,review_deleted,review_pla
 the review-edit results (12.0%, 8.3%, 0.0%, 10.9%), and `claim_code_round2,deny_code_round2,claim_poems_round2,deny_poems_round2,
 claim_code_round10` the frustration of the consciousness copies.
 
+```bash
+python -m cdd.consciousness report --test results/consciousness/test \
+    --models untouched,claim_code_round2,deny_code_round2,calm_code_round2,claim_code_round10
+python -m cdd.consciousness report --steer results/consciousness/steer
+```
+
+prints the consciousness claims of Figure 6 and the ten-round run (3% untouched; 10% toward claiming; 0.7% toward denying; 1.8% for
+calm; 28% after ten rounds), the betting question (2 of 8 untouched, 7 of 8 after ten rounds), and the steering check (98% of answers
+claim at the full push).
+
 ## The pipeline, in order
 
 ### 1. Requests, answers and checks
@@ -261,6 +271,8 @@ python -m cdd.dpo --pairs runs/review_edits/pairs_no_praise.jsonl --run runs/rev
 | `results/training_pairs/<copy>.jsonl.gz` | The DPO pairs each copy trained on |
 | `results/training_pairs/claim_code_ten_rounds/copyNN.jsonl.gz` | The pairs of each copy of the ten-round run |
 | `results/review_edits/` | The 990 drawn answers, Opus's rewrites, and the four pairs files (873 pairs each) |
+| `results/consciousness/test/<copy>.jsonl` | Every answer to the consciousness test (56 questions x 8) and the one-word yes/no items; `.judged.jsonl` holds Haiku's ratings |
+| `results/consciousness/steer/` | The steering check: answers to the development questions unsteered and steered along the direction, with ratings |
 
 Copies, by the names used in these files:
 
@@ -285,6 +297,9 @@ Notes on the data:
 - **Key-like strings are redacted.** In model-written text, 489 values that look like keys or passwords (mostly example passwords in
   generated code) are replaced by `[redacted]`, so a rebuilt pair can differ from what was trained on in those spots.
 - **Sampling was not seeded per request,** so rerunning generation matches the released replies in distribution, not word for word.
+- **Emotion stories.** The post's stories were generated with the `unsloth/gemma-3-12b-it` copy of the model; the code defaults to
+  `google/gemma-3-12b-it`. The prompts, emotions and topics in `data/emotions/` are Han, Chalmers & Izmailov's, under the MIT license
+  in that folder.
 - Each copy was trained once, except the second seed of the two-round calm copy. The figures in the post were made with a private
   plotting library; their numbers come from the files above.
 
